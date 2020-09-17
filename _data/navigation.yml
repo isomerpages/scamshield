@@ -7,11 +7,10 @@
 logo: /images/isomer-logo.svg
 
 links:
-  - title: Contact Us
+  - title: How it works
     url: /contact-us/
-  - title: Faq
+  - title: FAQs
     url: /faq/
-  - title: Left Nav One
-    collection: left-nav-one
-  - title: Left Nav Two
-    collection: left-nav-two
+  - title: Download
+    url: /faq/
+
