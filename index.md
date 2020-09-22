@@ -9,7 +9,7 @@ sections:
     - hero:
         title: Scamshield
         subtitle: Block unsolicited messages and calls
-        background: /images/Group 5.png
+        background: /images/Group 6.png
         button: Find out how it works
         url: /contact-us/
         key_highlights:
