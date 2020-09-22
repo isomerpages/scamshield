@@ -1,31 +1,31 @@
 ---
 layout: homepage
 title: Scamshield - Block unsolicited messages and calls
-description: Brief site description here
+description: Scamshield is an application that protects you against unsolicited messages and calls from unknown contacts or known scammers
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: iOS version of the application is available now!
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
+        title: Scamshield
+        subtitle: Block unsolicited messages and calls
         background: /images/hero-banner.png
-        button: Contact Us
+        button: Find out how it works
         url: /contact-us/
         key_highlights:
             - title: Download the iOS application
               description: Start protecting yourself today
-              url: https://google.com
-            - title: How does it work?
-              description: Learn how Scamshield protects you from scammers
-              url: https://gmail.com
+              url: https://www.apple.com.sg
             - title: FAQs
               description: Got a question, we have the answers
-              url: /privacy/
+              url: /faq/
+            - title: How does it work?
+              description: Learn how Scamshield protects you from scammers
+              url: /how-does-it-work/
     - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+        title: Learn more about Scams
+        subtitle: Scam Alert
+        description: Bringing you the latest scam information
+        button: Find out more
+        url: https://www.scamalert.sg/
 ---
