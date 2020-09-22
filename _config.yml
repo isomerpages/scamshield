@@ -18,6 +18,7 @@ colors:
     - title: media-color-five
       color: '#00838f'
 
+is_government: false
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
