@@ -8,9 +8,11 @@ logo: /images/scamshield-logo-horizontal-blue.png
 
 links:
   - title: How it works
-    url: /contact-us/
+    url: /how-it-works/
   - title: FAQs
     url: /faq/
+  - title: How it works
+    url: /contact-us/    
   - title: Download
     url: /faq/
 
