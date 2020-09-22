@@ -1,11 +1,11 @@
 title: Title
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
+favicon: /images/scamshield-favicon.png
 
 # Site colors
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: '#2D81FF'
+  secondary-color: '#001E6C'
   media-colors:
     - title: media-color-one
       color: '#49759a'
@@ -18,12 +18,6 @@ colors:
     - title: media-color-five
       color: '#00838f'
 
-
-collections:
-  left-nav-one:
-    output: true
-  left-nav-two:
-    output: true
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
