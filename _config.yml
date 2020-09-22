@@ -4,8 +4,8 @@ favicon: /images/scamshield-favicon.png
 
 # Site colors
 colors:
-  primary-color: '#2D81FF'
-  secondary-color: '#001E6C'
+  primary-color: '#001E6C'
+  secondary-color: '#2D81FF'
   media-colors:
     - title: media-color-one
       color: '#49759a'
