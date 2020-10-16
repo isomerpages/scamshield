@@ -3,8 +3,6 @@ title: FAQ
 permalink: /faq/
 ---
 
-### **FAQ**
-
 **Frequently asked question**
 
 **Will the app block calls from people I know?**
