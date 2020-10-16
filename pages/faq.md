@@ -3,8 +3,6 @@ title: FAQ
 permalink: /faq/
 ---
 
-**Frequently asked question**
-
 **Will the app block calls from people I know?**
 
 No. The app only blocks calls from our database of blocked numbers, managed centrally by the National Crime Prevention Council (NCPC) and Singapore Police Force (SPF).
