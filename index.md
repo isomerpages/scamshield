@@ -22,6 +22,6 @@ sections:
         title: Learn more about Scams
         subtitle: Scam Alert
         description: Bringing you the latest scam information
-        button: Find out more
+        button: Learn more
         url: https://www.scamalert.sg/
 ---
