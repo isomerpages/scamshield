@@ -15,32 +15,32 @@ permalink: /terms-of-use/
 
 2. You agree that you will not, directly or indirectly — <br>
     (a) modify, reverse-engineer, decompile, adapt, publish, redistribute or interfere with or intercept any transaction which is part of ScamShield; <br>
-    (b) use ScamShield for any commercial purpose or for the benefit of any third party (save where authorised by NCPC), including renting, selling, leasing or directly or indirectly charging others for the use of ScamShield; <br>    
-    (c) remove, circumvent, impair, bypass, disable or otherwise interfere with any feature of ScamShield; <br>    
+    (b) use ScamShield for any commercial purpose or for the benefit of any third party (save where authorised by NCPC), including renting, selling, leasing or directly or indirectly charging others for the use of ScamShield;
+    (c) remove, circumvent, impair, bypass, disable or otherwise interfere with any feature of ScamShield;
     (d) access, submit or use any data that is not yours, or which you are not validly authorised to access, submit or use; <br>
     (e) misrepresent or make false or misleading claims regarding ScamShield; <br>
-    (f) use ScamShield for any illegal activity, unlawful purpose, or purposes prohibited by these Terms or in breach of these Terms; <br>    
+    (f) use ScamShield for any illegal activity, unlawful purpose, or purposes prohibited by these Terms or in breach of these Terms;
     (g) use any device, software, exploits, or routine, including any virus, Trojan horse, worm, time bomb, robot, spider, data-mining or data scraping tool or cancel bot intended to damage or interfere with the proper operation of ScamShield or to intercept or expropriate any data from ScamShield; <br>
     (h) use ScamShield in any manner that could damage, disrupt, disable, overburden, or impair the operation of ScamShield or interfere with any person&#39;s use of ScamShield; <br>
-    (i) while using ScamShield, upload, post or transmit any material of any type that — <br>
-        1. is contrary to any law, statute or subsidiary legislation; <br>
-        2. is false, offensive, defamatory, inaccurate, misleading or fraudulent; or <br>
+    (i) while using ScamShield, upload, post or transmit any material of any type that —
+        1. is contrary to any law, statute or subsidiary legislation;
+        2. is false, offensive, defamatory, inaccurate, misleading or fraudulent; or
         3. infringes or violates the rights of any person;<br>
     (j) use ScamShield to access data not intended for you.<br>
-        1. You agree that data collected by ScamShield may be shared with NCPC and the Singapore Police Force (SPF), and be used for detecting, reporting and blocking of potential scam calls and messages. You further agree that the contents of scam messages collected may be shared with the Singapore Police Force for investigative purposes. <br>        
+        1. You agree that data collected by ScamShield may be shared with NCPC and the Singapore Police Force (SPF), and be used for detecting, reporting and blocking of potential scam calls and messages. You further agree that the contents of scam messages collected may be shared with the Singapore Police Force for investigative purposes.     
         2. You agree to comply with any and all guidelines, notices, operating rules and policies and instructions pertaining to the use of ScamShield, including any amendments to the foregoing, issued by NCPC from time to time, as well as any applicable laws and regulations.
 
 #### Disclaimers against Warranty, Representation and Liability
 
 1. ScamShield is provided on an &quot;as is&quot; and &quot;as available&quot; basis without warranty of any kind. The accessibility and operation of ScamShield may rely on technologies outside our control. To the extent permitted by law, NCPC does not make any representation or warranty of any kind whatsoever in relation to ScamShield and disclaim all express, implied and statutory warranties of any kind to you or any third party, whether arising from usage or custom or trade or by operation of law or otherwise, including any representation or warranty
 
-    (a) as to the accuracy, completeness, correctness, currency, timeliness, reliability, availability, interoperability, security, non-infringement, title, merchantability, quality or fitness for any particular purpose of ScamShield; or <br>    
+    (a) as to the accuracy, completeness, correctness, currency, timeliness, reliability, availability, interoperability, security, non-infringement, title, merchantability, quality or fitness for any particular purpose of ScamShield; or <br>
     (b) that ScamShield or any associated function or feature will be continuously accessible, uninterrupted or error-free, or that defects will be corrected or that ScamShield and their servers are and will be free of virus or other malicious, destructive or corrupting code, programme or macro.
 
 2. NCPC will not be liable to you or any third party for any damage or loss of any kind whatsoever and howsoever caused, including any direct or indirect, special or consequential damage, loss of income, revenue or profit, lost or damaged data, or damage to your device, software or any other property, whether arising directly or indirectly in connection with any of the following
     
-    (a) your use of ScamShield; <br>    
-    (b) any loss or unavailability of use of ScamShield, howsoever caused; <br>    
+    (a) your use of ScamShield; <br>
+    (b) any loss or unavailability of use of ScamShield, howsoever caused; <br>
     (c) any breakdown or malfunction of any equipment system or software used in connection with ScamShield, whether belonging to us or not, including any electronic terminal, server or system, or telecommunication or other communications network or system; <br>
     (d) your device, computer or other electronic hardware not working or functioning properly; <br>
     (e) any inaccuracy or incompleteness in, or error or omission in the transmission of data or any other content made available or accessible via ScamShield; <br> 
