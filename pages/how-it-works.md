@@ -3,8 +3,6 @@ title: How it works?
 permalink: /how-it-works/
 ---
 
-### **How it works?**
-
 ![Scamshield protecting you from scam](/images/Illustration-splash-hero.png)
 
 Scamshield protects you in two ways. We have developed a custom machine learning algorithm that works **on your device** which will intercept SMSes coming from unknown contacts to determine if its a potential scam. If the algorithm determines the incoming SMS to be a scam it will be moved to a filtered or Junk folder on your device.
