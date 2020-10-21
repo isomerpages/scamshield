@@ -37,9 +37,9 @@ As the app does not individually identify any users, and it does not access any 
 
 ### How does ScamShield works?
 
-The mobile app filters through incoming calls and text messages, and compares them against your contact list. It will screen calls or messages not in the list and compares that against the database. If it is a scam call, it will be automatically blocked. If it is a scam message, it will automatically be filtered to a junk SMS folder.
+The mobile app filters through incoming calls and text messages. For incoming calls, Scamshield compares the incoming number with a list of numbers and decided if the call should be blocked. The list is maintained by the Singapore Police Force. For incomings SMSes, Scamshield will determine if the message is a scam using an algorithm that runs on device and automatically filter it to a junk SMS folder.
 
-Only calls and messages classified as scam will be sent for collation. This is to allow the app to remain updated and will also help protect others from such scam call and messages.
+Only messages classified as scam will be sent for collation. This is to allow the app to remain updated and will also help protect others from such scam call and messages.
 
 ### Why should I download ScamShield?
 
