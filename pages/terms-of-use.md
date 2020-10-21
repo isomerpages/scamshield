@@ -21,10 +21,12 @@ permalink: /terms-of-use/
     (g) use any device, software, exploits, or routine, including any virus, Trojan horse, worm, time bomb, robot, spider, data-mining or data scraping tool or cancel bot intended to damage or interfere with the proper operation of ScamShield or to intercept or expropriate any data from ScamShield; <br>
     (h) use ScamShield in any manner that could damage, disrupt, disable, overburden, or impair the operation of ScamShield or interfere with any person&#39;s use of ScamShield; <br>
     (i) while using ScamShield, upload, post or transmit any material of any type that —
+        
         1. is contrary to any law, statute or subsidiary legislation;
         2. is false, offensive, defamatory, inaccurate, misleading or fraudulent; or
         3. infringes or violates the rights of any person;<br>
     (j) use ScamShield to access data not intended for you.<br>
+        
         1. You agree that data collected by ScamShield may be shared with NCPC and the Singapore Police Force (SPF), and be used for detecting, reporting and blocking of potential scam calls and messages. You further agree that the contents of scam messages collected may be shared with the Singapore Police Force for investigative purposes.     
         2. You agree to comply with any and all guidelines, notices, operating rules and policies and instructions pertaining to the use of ScamShield, including any amendments to the foregoing, issued by NCPC from time to time, as well as any applicable laws and regulations.
         
@@ -60,6 +62,7 @@ permalink: /terms-of-use/
  (e) if your use of ScamShield is in breach of these Terms, we may immediately disable your use of ScamShield without notice and to take all such action as we consider appropriate, desirable or necessary. <br>
 
 3. NCPC retains the discretion in determining whether or not to provide maintenance and support services for ScamShield, and if so, the type and nature of such maintenance and support services.
+
 #### Intellectual Property
 1. You acknowledge that NCPC owns all titles, rights and interest, including intellectual property rights, in and to ScamShield, including any software therein. You will not do or permit any act which is directly or indirectly likely to limit our titles, rights or interest in and to the same. Unless otherwise expressly permitted by law, you agree not to modify, adapt, translate, prepare derivative works from, or decompile, reverse engineer, disassemble or otherwise attempt to derive source code from, ScamShield. Without limiting the foregoing, you will not use in any way and will not reproduce any trademark, logo, trade name and similar mark that is associated with ScamShield, without NCPC&#39;s prior written consent.
 
