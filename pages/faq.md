@@ -21,7 +21,7 @@ The app does not read any data from people in your contact list or from any othe
 
 ### What happens if I delete the app? Will all my junk messages be deleted too?
 
-No, the app cannot delete your messages. If you delete the app, the junk SMS folder on your phone will also be deleted and the junk messages will go back to your original SMS folder.
+No, the app cannot delete your messages. If you delete the app, the junk SMS folder on your phone will remain with all the SMSes intact.
 
 ### When will the Android version be out? I want this app on my phone!
 
