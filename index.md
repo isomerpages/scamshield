@@ -10,7 +10,7 @@ sections:
         subtitle: Block unsolicited messages and calls
         background: /images/Group 6.png
         button: Find out how it works
-        url: /how-does-it-work/
+        url: /how-it-works/
         key_highlights:
             - title: FAQs
               description: Got a question, we have the answers
