@@ -15,11 +15,11 @@ permalink: /terms-of-use/
 
 2. You agree that you will not, directly or indirectly — <br>
     (a) modify, reverse-engineer, decompile, adapt, publish, redistribute or interfere with or intercept any transaction which is part of ScamShield; <br>
-    (b) use ScamShield for any commercial purpose or for the benefit of any third party (save where authorised by NCPC), including renting, selling, leasing or directly or indirectly charging others for the use of ScamShield;
-    (c) remove, circumvent, impair, bypass, disable or otherwise interfere with any feature of ScamShield;
+    (b) use ScamShield for any commercial purpose or for the benefit of any third party (save where authorised by NCPC), including renting, selling, leasing or directly or indirectly charging others for the use of ScamShield; <br>
+    (c) remove, circumvent, impair, bypass, disable or otherwise interfere with any feature of ScamShield; <br>
     (d) access, submit or use any data that is not yours, or which you are not validly authorised to access, submit or use; <br>
     (e) misrepresent or make false or misleading claims regarding ScamShield; <br>
-    (f) use ScamShield for any illegal activity, unlawful purpose, or purposes prohibited by these Terms or in breach of these Terms;
+    (f) use ScamShield for any illegal activity, unlawful purpose, or purposes prohibited by these Terms or in breach of these Terms; <br>
     (g) use any device, software, exploits, or routine, including any virus, Trojan horse, worm, time bomb, robot, spider, data-mining or data scraping tool or cancel bot intended to damage or interfere with the proper operation of ScamShield or to intercept or expropriate any data from ScamShield; <br>
     (h) use ScamShield in any manner that could damage, disrupt, disable, overburden, or impair the operation of ScamShield or interfere with any person&#39;s use of ScamShield; <br>
     (i) while using ScamShield, upload, post or transmit any material of any type that —
@@ -37,8 +37,7 @@ permalink: /terms-of-use/
     (a) as to the accuracy, completeness, correctness, currency, timeliness, reliability, availability, interoperability, security, non-infringement, title, merchantability, quality or fitness for any particular purpose of ScamShield; or <br>
     (b) that ScamShield or any associated function or feature will be continuously accessible, uninterrupted or error-free, or that defects will be corrected or that ScamShield and their servers are and will be free of virus or other malicious, destructive or corrupting code, programme or macro.
 
-2. NCPC will not be liable to you or any third party for any damage or loss of any kind whatsoever and howsoever caused, including any direct or indirect, special or consequential damage, loss of income, revenue or profit, lost or damaged data, or damage to your device, software or any other property, whether arising directly or indirectly in connection with any of the following
-    
+2. NCPC will not be liable to you or any third party for any damage or loss of any kind whatsoever and howsoever caused, including any direct or indirect, special or consequential damage, loss of income, revenue or profit, lost or damaged data, or damage to your device, software or any other property, whether arising directly or indirectly in connection with any of the following  <br>
     (a) your use of ScamShield; <br>
     (b) any loss or unavailability of use of ScamShield, howsoever caused; <br>
     (c) any breakdown or malfunction of any equipment system or software used in connection with ScamShield, whether belonging to us or not, including any electronic terminal, server or system, or telecommunication or other communications network or system; <br>
@@ -58,8 +57,7 @@ permalink: /terms-of-use/
 
 1. NCPC reserves the right to change, modify or supplement these Terms at our discretion and at any time, by posting the changed, modified or supplemented Terms on or through ScamShield, or through such other means as NCPC may deem appropriate. Your continued use of ScamShield following the posting of any change, modification or supplement will constitute your acceptance of such change, modification or supplement. If you do not agree to any change, modification or supplement to these Terms, please do not use ScamShield.
 
-2. NCPC reserves the right to —
-
+2. NCPC reserves the right to —  <br>
  (a) update, enhance, upgrade, reduce, or otherwise modify or vary ScamShield, at any time, for any reason, with or without notice to you. These Terms will apply to all such updates, enhancements, upgrades, reductions, modifications or variations to ScamShield; <br>
  (b) suspend the use of ScamShield, during times of maintenance (whether scheduled or unscheduled), without notice or liability to you whatsoever; <br>
  (c) deny or restrict the use of ScamShield to you without ascribing any reasons and without liability to you whatsoever; <br>
