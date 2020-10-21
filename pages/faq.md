@@ -61,7 +61,7 @@ No, the app can only filter incoming SMSes. If you received spam messages from o
 
 ### Can I inactivate either the filtering of incoming phone calls or text messages function?
 
-No, the app is programmed to filter both incoming calls and SMSes.
+The app is programmed to filter both incoming calls and SMSes.
 
 ### I have questions about the app! Who can I ask?
 
