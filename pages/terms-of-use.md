@@ -3,13 +3,13 @@ title: Terms of Use
 permalink: /terms-of-use/
 ---
 
-### General
+#### General
 
 1. Welcome to ScamShield provided by the National Crime Prevention Council (&quot;NCPC&quot;) and the Open Government Products team (&quot;OGP&quot;). These Terms of Use (&quot;Terms&quot;) govern your use of ScamShield. Please read these Terms carefully as any non-compliance may result in civil or criminal liability.
 
 2. By accessing and using any part of ScamShield, you agree to be bound by these Terms. You may access and use ScamShield in the manner permitted under these Terms. If you do not agree to these Terms, please do not use ScamShield.
 
-### Use of ScamShield
+#### Use of ScamShield
 
 1. Unless otherwise authorised by NCPC, we grant you a non-exclusive, limited, revocable, non-sub-licensable and non-transferrable right to use ScamShield for your personal non-commercial use only.
 
@@ -46,15 +46,16 @@ permalink: /terms-of-use/
         
         2. You agree to comply with any and all guidelines, notices, operating rules and policies and instructions pertaining to the use of ScamShield, including any amendments to the foregoing, issued by NCPC from time to time, as well as any applicable laws and regulations.
 
-### Disclaimers against Warranty, Representation and Liability
+#### Disclaimers against Warranty, Representation and Liability
 
-1. ScamShield is provided on an &quot;as is&quot; and &quot;as available&quot; basis without warranty of any kind. The accessibility and operation of ScamShield may rely on technologies outside our control. To the extent permitted by law, NCPC does not make any representation or warranty of any kind whatsoever in relation to ScamShield and disclaim all express, implied and statutory warranties of any kind to you or any third party, whether arising from usage or custom or trade or by operation of law or otherwise, including any representation or warranty —
-    
+1. ScamShield is provided on an &quot;as is&quot; and &quot;as available&quot; basis without warranty of any kind. The accessibility and operation of ScamShield may rely on technologies outside our control. To the extent permitted by law, NCPC does not make any representation or warranty of any kind whatsoever in relation to ScamShield and disclaim all express, implied and statutory warranties of any kind to you or any third party, whether arising from usage or custom or trade or by operation of law or otherwise, including any representation or warranty
+
     (a) as to the accuracy, completeness, correctness, currency, timeliness, reliability, availability, interoperability, security, non-infringement, title, merchantability, quality or fitness for any particular purpose of ScamShield; or
     
     (b) that ScamShield or any associated function or feature will be continuously accessible, uninterrupted or error-free, or that defects will be corrected or that ScamShield and their servers are and will be free of virus or other malicious, destructive or corrupting code, programme or macro.
 
-2. NCPC will not be liable to you or any third party for any damage or loss of any kind whatsoever and howsoever caused, including any direct or indirect, special or consequential damage, loss of income, revenue or profit, lost or damaged data, or damage to your device, software or any other property, whether arising directly or indirectly in connection with any of the following —
+
+2. NCPC will not be liable to you or any third party for any damage or loss of any kind whatsoever and howsoever caused, including any direct or indirect, special or consequential damage, loss of income, revenue or profit, lost or damaged data, or damage to your device, software or any other property, whether arising directly or indirectly in connection with any of the following
     
     (a) your use of ScamShield;
     
@@ -72,13 +73,14 @@ permalink: /terms-of-use/
     
     (h) any virus or other malicious, destructive or corrupting code, programme or macro in ScamShield.
 
+
 3. You acknowledge that your use of ScamShield contains the possibility of human and machine errors, inaccuracies, omissions, delays, unavailability and losses, including the inadvertent loss of data which may give rise to loss or damage suffered by you, and you agree that you will not hold NCPC liable in any way whatsoever for the said loss or damage. You agree that you use ScamShield at your own discretion and risk and that you will be responsible for any loss or damage suffered by you and to your device, or loss, damage to or corruption of data that results from the use of ScamShield.
 
 4. You will not rely on ScamShield to claim or assert any form of legitimate expectation against NCPC.
 
 5. Without prejudice to the foregoing, no action may be brought by you against NCPC, under these Terms or related to ScamShield.
 
-### Reservation of Rights
+#### Reservation of Rights
 
 1. NCPC reserves the right to change, modify or supplement these Terms at our discretion and at any time, by posting the changed, modified or supplemented Terms on or through ScamShield, or through such other means as NCPC may deem appropriate. Your continued use of ScamShield following the posting of any change, modification or supplement will constitute your acceptance of such change, modification or supplement. If you do not agree to any change, modification or supplement to these Terms, please do not use ScamShield.
 
@@ -93,6 +95,7 @@ permalink: /terms-of-use/
  (d) discontinue or terminate ScamShield, at any time without notice or liability to you whatsoever, whereupon all rights granted to you under these Terms will also terminate immediately; and
 
  (e) if your use of ScamShield is in breach of these Terms, we may immediately disable your use of ScamShield without notice and to take all such action as we consider appropriate, desirable or necessary.
+ 
 
 3. NCPC retains the discretion in determining whether or not to provide maintenance and support services for ScamShield, and if so, the type and nature of such maintenance and support services.
 
