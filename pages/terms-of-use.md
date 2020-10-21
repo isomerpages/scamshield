@@ -24,7 +24,8 @@ permalink: /terms-of-use/
         
         1. is contrary to any law, statute or subsidiary legislation;
         2. is false, offensive, defamatory, inaccurate, misleading or fraudulent; or
-        3. infringes or violates the rights of any person;<br>
+        3. infringes or violates the rights of any person;
+        
     (j) use ScamShield to access data not intended for you.<br>
         
         1. You agree that data collected by ScamShield may be shared with NCPC and the Singapore Police Force (SPF), and be used for detecting, reporting and blocking of potential scam calls and messages. You further agree that the contents of scam messages collected may be shared with the Singapore Police Force for investigative purposes.     
