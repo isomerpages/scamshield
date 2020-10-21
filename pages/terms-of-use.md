@@ -15,21 +15,36 @@ permalink: /terms-of-use/
 
 
 2. You agree that you will not, directly or indirectly —
+    
     (a) modify, reverse-engineer, decompile, adapt, publish, redistribute or interfere with or intercept any transaction which is part of ScamShield;
+    
     (b) use ScamShield for any commercial purpose or for the benefit of any third party (save where authorised by NCPC), including renting, selling, leasing or directly or indirectly charging others for the use of ScamShield;
+    
     (c) remove, circumvent, impair, bypass, disable or otherwise interfere with any feature of
  ScamShield;
+    
     (d) access, submit or use any data that is not yours, or which you are not validly authorised to access, submit or use;
+    
     (e) misrepresent or make false or misleading claims regarding ScamShield;
+    
     (f) use ScamShield for any illegal activity, unlawful purpose, or purposes prohibited by these Terms or in breach of these Terms;
+    
     (g) use any device, software, exploits, or routine, including any virus, Trojan horse, worm, time bomb, robot, spider, data-mining or data scraping tool or cancel bot intended to damage or interfere with the proper operation of ScamShield or to intercept or expropriate any data from ScamShield;
+    
     (h) use ScamShield in any manner that could damage, disrupt, disable, overburden, or impair the operation of ScamShield or interfere with any person&#39;s use of ScamShield;
+    
     (i) while using ScamShield, upload, post or transmit any material of any type that —
+        
         1. is contrary to any law, statute or subsidiary legislation;
+        
         2. is false, offensive, defamatory, inaccurate, misleading or fraudulent; or
+        
         3. infringes or violates the rights of any person;
+    
     (j) use ScamShield to access data not intended for you.
+        
         1. You agree that data collected by ScamShield may be shared with NCPC and the Singapore Police Force (SPF), and be used for detecting, reporting and blocking of potential scam calls and messages. You further agree that the contents of scam messages collected may be shared with the Singapore Police Force for investigative purposes.
+        
         2. You agree to comply with any and all guidelines, notices, operating rules and policies and instructions pertaining to the use of ScamShield, including any amendments to the foregoing, issued by NCPC from time to time, as well as any applicable laws and regulations.
 
 ### Disclaimers against Warranty, Representation and Liability
