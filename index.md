@@ -10,14 +10,14 @@ sections:
         subtitle: Block unsolicited messages and calls
         background: /images/Group 6.png
         button: Find out how it works
-        url: /contact-us/
+        url: /how-does-it-work/
         key_highlights:
             - title: FAQs
               description: Got a question, we have the answers
               url: /faq/
-            - title: How does it work?
-              description: Learn how Scamshield protects you from scammers
-              url: /how-does-it-work/
+            - title: Download the application
+              description: Protect yourself today
+              url: https://www.apple.com.sg/
     - infobar:
         title: Learn more about Scams
         subtitle: Scam Alert
