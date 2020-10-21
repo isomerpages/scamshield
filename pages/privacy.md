@@ -11,8 +11,8 @@ The application does **not** have access to your contact list or any private dat
 We are committed to safeguarding your privacy and we only store the data necessary for the app to function. Further, we align ourselves with the strict privacy parameters set by Apple and iOS, and we follow the commercial best practices of data protection and data governance.
 
 For full transparency, the only data we store is:
-    1. Contents of messages that are flagged up by Scamshield as &#39;scam&#39; messages;
-    2. The sender ID and/or contact number(s) of the person who sends such &#39;scam&#39; messages
+1. Contents of messages that are flagged up by Scamshield as &#39;scam&#39; messages;
+2. The sender ID and/or contact number(s) of the person who sends such &#39;scam&#39; messages
 
 We do not store any other data and there are no identifiers to trace back to any individual users. For the avoidance of doubt, only SMSes that the ScamShield application determines to be scam are automatically reported and sent to NCPC, and Scamshield does not have the capability to read **any** other messages on your phone.
 
