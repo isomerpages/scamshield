@@ -15,7 +15,7 @@ For incoming SMSes, Scamshield can only access SMSes if it fulfils requirements 
 
 For SMSes that are passed to Scamshield, Scamshield utilises its on-device algorithm to determine if the SMS is a potential scam message. If the algorithm determines the incoming SMS to be a scam it will move it to a filtered or Junk folder on your device.
 
-**Would Scamshield be reading all my messages?**
+#### Would Scamshield be reading all my messages?
 Nope, iOS has strict privacy rules on what Scamshield can or cannot read. If a message comes from a known contact, iOS will not pass the SMS to Scamshield. If you have previously interacted with an unknown contact or decided to engage an unknown contact in conversation then Scamshield will not get to see the message either.
 
-You can learn more by reading up on our [FAQs](/faqs)
+You can learn more by reading up on our [FAQ](/faq) page or contact us at [scamshield@ncpc.org.sg](mailto:scamshield@ncpc.org.sg)
