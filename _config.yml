@@ -4,9 +4,9 @@ favicon: /images/scamshield-favicon.png
 
 collections:
   left-nav-one:
-    output: true
+    output: false
   left-nav-two:
-    output: true
+    output: false
 
 # Site colors
 colors:
