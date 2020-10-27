@@ -2,6 +2,12 @@ title: National Crime Prevention Council
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/scamshield-favicon.png
 
+collections:
+  left-nav-one:
+    output: true
+  left-nav-two:
+    output: true
+
 # Site colors
 colors:
   primary-color: '#001E6C'
