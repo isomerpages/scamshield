@@ -18,6 +18,10 @@ colors:
     - title: media-color-five
       color: '#00838f'
 
+collections:
+  left-nav-one:
+    output: false
+  
 is_government: false
 
 ##################################################################################################################
