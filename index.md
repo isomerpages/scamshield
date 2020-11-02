@@ -15,11 +15,11 @@ sections:
       url: /how-it-works/
       key_highlights:
         - title: FAQs
-          description: 'Got a question, we have the answers'
+          description: Got a question?
           url: /faq/
-        - title: Download the application
-          description: Protect yourself today
-          url: 'https://www.apple.com.sg/'
+        - title: Scam alert
+          description: Latest scam information
+          url: 'https://www.scamalert.sg'
   - infopic:
       title: Infopic Title
       subtitle: Block scam calls
