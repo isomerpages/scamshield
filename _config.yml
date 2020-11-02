@@ -3,7 +3,7 @@ url: ''
 favicon: /images/scamshield-favicon.png
 colors:
   primary-color: '#2D81FF'
-  secondary-color: '#2D81FF'
+  secondary-color: '#001e6c'
   media-colors:
     - title: media-color-one
       color: '#d0021b'
