@@ -33,5 +33,19 @@ sections:
       description: Read our FAQ to find out more.
       button: Learn more
       url: 'https://www.scamalert.sg/'
+  - infopic:
+      title: Infopic Title
+      subtitle: Filter scam SMSes
+      description: Infopic description
+      button: Button Text
+      image: /images/FilterSMS.png
+      alt: Image alt text
+  - infopic:
+      title: Infopic Title
+      subtitle: Report scam messages
+      description: Infopic description
+      button: Button Text
+      image: /images/ReportMessage.png
+      alt: Image alt text
 notification: ''
 ---
