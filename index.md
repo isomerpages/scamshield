@@ -26,5 +26,11 @@ sections:
       description: Read our FAQ to find out more.
       button: Learn more
       url: 'https://www.scamalert.sg/'
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 notification: ''
 ---
