@@ -20,17 +20,18 @@ sections:
         - title: Download the application
           description: Protect yourself today
           url: 'https://www.apple.com.sg/'
+  - infopic:
+      title: Infopic Title
+      subtitle: Block scam calls
+      description: Infopic description
+      button: Button Text
+      alt: Block scam calls
+      image: /images/BlockScamCalls.png
   - infobar:
       title: Have a question?
       subtitle: FAQ
       description: Read our FAQ to find out more.
       button: Learn more
       url: 'https://www.scamalert.sg/'
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 notification: ''
 ---
