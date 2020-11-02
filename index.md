@@ -21,9 +21,9 @@ sections:
           description: Protect yourself today
           url: 'https://www.apple.com.sg/'
   - infobar:
-      title: Learn more about Scams
-      subtitle: Scam Alert
-      description: Bringing you the latest scam information
+      title: Have a question?
+      subtitle: FAQ
+      description: Read our FAQ to find out more.
       button: Learn more
       url: 'https://www.scamalert.sg/'
 notification: ''
