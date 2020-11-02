@@ -4,12 +4,12 @@
 #                                #
 ##################################
 
-logo: /images/scamshield-logo-horizontal-blue.png
+logo: /images/scamshield-logo-horizontal-white.png
 
 links:
-  - title: How it works
-    url: /how-it-works/
-  - title: FAQs
+  - title: Setup Guide
+    url: /setup-guide/
+  - title: FAQ
     url: /faq/
   - title: Contact Us
     url: /contact-us/    
