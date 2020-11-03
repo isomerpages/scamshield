@@ -4,48 +4,50 @@ title: Scamshield
 description: >-
   Scamshield is an application that protects you against unsolicited messages
   and calls from unknown contacts or known scammers
-image: /images/isomer-logo.svg
+image: /images/scamshield-logo-horizontal-white.png
 permalink: /
 sections:
   - hero:
       title: Scamshield
       subtitle: Block unsolicited messages and calls
       background: /images/ScamshieldBanner.png
-      button: Find out how it works
-      url: /how-it-works/
+      button: Set up Scamshield
+      url: /setup-guide/
       key_highlights:
-        - title: FAQs
+        - title: FAQ
           description: Got a question?
           url: /faq/
         - title: Scam alert
           description: Latest scam information
           url: 'https://www.scamalert.sg'
   - infopic:
-      title: Infopic Title
-      subtitle: Block scam calls
-      description: Infopic description
-      button: Button Text
+      title: Block scam calls
+      subtitle: Feature
+      description: Scamshield compares an incoming call against a list maintained by the Singapore Police Force to determine if the number has been used for illegal purposes and blocks it.
+      button: View setup guide
+      url: /setup-guide
       alt: Block scam calls
       image: /images/BlockScamCalls.png
   - infopic:
-      title: Infopic Title
-      subtitle: Filter scam SMSes
-      description: Infopic description
-      button: Button Text
+      title: Filter scam SMSes
+      subtitle: Feature
+      description: When you receive an SMS from an unknown contact, Scamshield will determine if the SMS is a scam using an on-device algorithm, and filter the messages to a junk SMS folder. Scam SMSes will be sent to NCPC and SPF for collation. This keeps the app updated and will help protect others from such scam calls and messages.
+      button: View setup guide
+      url: /setup-guide
       image: /images/FilterSMS.png
-      alt: Image alt text
+      alt: Filter scam SMSes
   - infopic:
-      title: Infopic Title
-      subtitle: Report scam messages
-      description: Infopic description
-      button: Button Text
+      title: Report scam messages
+      subtitle: Feature
+      description: You can also report scam messages from other chat apps such as WhatsApp, Wechat, IMO, Viber, etc. You can forward the messages via Scamshield’s in-app reporting function.
+      button: View setup guide
+      url: /setup-guide
       image: /images/ReportMessage.png
-      alt: Image alt text
+      alt: Report scam messages
   - infobar:
       title: Have a question?
-      subtitle: FAQ
-      description: Read our FAQ to find out more.
+      description: Read our FAQ to find out more
       button: Learn more
-      url: 'https://www.scamalert.sg/'
+      url: /faq/
 notification: ''
 ---

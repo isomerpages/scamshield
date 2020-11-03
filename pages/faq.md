@@ -16,7 +16,7 @@ Yes. A junk SMS folder will be created on your phone. It is the same concept as 
 
 ### Are there any privacy concerns with using the app?
 
-The app does not read any data from people in your contact list. Only messages sent by unknown persons will be read by the AI. The app also does not have any access to your location data or any personal data (because it’s not necessary!)
+Nope, iOS has strict privacy rules on what Scamshield can or cannot read. If a message comes from a known contact, iOS will not pass the SMS to Scamshield. If you have previously interacted with an unknown contact or decided to engage an unknown contact in conversation then Scamshield will not get to see the message either. Only messages sent by unknown persons via SMS will be read by the AI. The app also does not have any access to your location data or any personal data (because it&#39;s not necessary!)
 
 ### What happens if I delete the app? Will all my junk messages be deleted too?
 
@@ -34,7 +34,7 @@ The app is a collaboration between the NCPC, Open Government Products team (OGP)
 
 As the app does not individually identify any users, and it does not access any other data on your phone, you and your phone are not at risk if the app is compromised.
 
-### How does ScamShield works?
+### How does ScamShield work?
 
 The app filters incoming calls and text messages. Scamshield compares an incoming call against a list maintained by the Singapore Police Force to determine if the number has been used for illegal purposes and blocks it. 
 

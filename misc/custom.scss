@@ -173,7 +173,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .bp-section.bp-section-pagetitle {
-  background-color: $primary !important;
+  background-color: $secondary !important;
 }
 
 // Pagination
@@ -335,3 +335,54 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
+
+
+
+----------
+CUSTOM
+----------
+
+.masthead-container {
+  background-color: $primary; 
+}
+
+.navbar {
+  background-color: $primary; 
+}
+
+.navbar .navbar-item a {
+  color: #ffffff; 
+}
+
+.navbar .navbar-item span {
+  color: #ffffff;
+}
+
+.bp-hero-body {
+  background: rgba(0, 0, 0, 0);
+}
+
+.bp-hero-body p {
+  color: $secondary;
+}
+
+h1.display {
+  color: $secondary;
+}
+
+.navbar-menu {
+  background: $primary;
+}
+
+.navbar-burger {
+  color: #ffffff;
+}
+
+.navbar-item:not(.sub-link) a[target="_blank"]:after {
+  color: #ffffff;
+}
+
+.navbar .navbar-item.is-search-bar {
+  border-color: rgba(0, 0, 0, 0);
+}
+
