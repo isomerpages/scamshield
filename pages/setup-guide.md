@@ -2,6 +2,11 @@
 title: Setup Guide
 permalink: /setup-guide/
 ---
+Follow these 3 steps to setup Scamshield and start protecting yourself against scams.
+
+
+
+
 ## 1. Block known scam callers
 *  Open **Settings**
 *  Tap **Phone**
