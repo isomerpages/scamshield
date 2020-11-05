@@ -6,6 +6,7 @@ Follow these 3 steps to setup Scamshield and start protecting yourself against s
 
 ### 1. Download from App Store
 Search for Scamshield on the App Store or click on this [link](https://apple.com.sg). Do not download applications that are not from the official Apple Store.
+![](/images/App Store.svg)
 
 
 ### 2. Block known scam callers
