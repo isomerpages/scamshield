@@ -2,8 +2,8 @@ title: National Crime Prevention Council
 url: ''
 favicon: /images/scamshield-favicon.png
 colors:
-  primary-color: '#2D81FF'
-  secondary-color: '#001E6C'
+  primary-color: '#001E6C'
+  secondary-color: '#2D81FF'
   media-colors:
     - title: media-color-one
       color: '#d0021b'
