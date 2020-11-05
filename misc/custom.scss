@@ -340,6 +340,10 @@ $desktop: 960px + (2 * $gap) !default;
   background: rgba(0, 0, 0, 0);
 }
 
-.bp-hero-body p, .bp-hero-body h1 {
+.bp-hero-body p {
   color: $secondary;
+}
+	  
+.bp-hero-body h1 {
+  color: $primary;
 }
