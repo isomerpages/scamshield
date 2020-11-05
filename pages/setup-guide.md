@@ -18,3 +18,6 @@ permalink: /setup-guide/
 * Enable **Scamshield**
 
 ![](/images/setup-guide2.png)
+
+## Done!
+If you come across further scam messages, you can report them using Scamshield’s in-app reporting function.
