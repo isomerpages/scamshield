@@ -2,14 +2,70 @@
 title: FAQ
 permalink: /faq/
 ---
+### Will the app block calls from people I know?
 
-### **FAQ**
+No. The app only blocks calls from our database of blocked numbers, managed centrally by the National Crime Prevention Council (NCPC) and Singapore Police Force (SPF).
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+### Will it filter SMSes from people I know?
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+The app does not operate on messages coming from people already in your contact list or contacts that you have an existing conversation with.
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.---
-title: Faq
-permalink: /faq/
----
+### Will I still be able to see the SMSes that have been filtered?
+
+Yes. A junk SMS folder will be created on your phone. It is the same concept as a junk folder for your email inbox. You will still be able to see those messages.
+
+### Are there any privacy concerns with using the app?
+
+Nope, iOS has strict privacy rules on what Scamshield can or cannot read. If a message comes from a known contact, iOS will not pass the SMS to Scamshield. If you have previously interacted with an unknown contact or decided to engage an unknown contact in conversation then Scamshield will not get to see the message either. Only messages sent by unknown persons via SMS will be read by the AI. The app also does not have any access to your location data or any personal data (because it&#39;s not necessary!)
+
+### What happens if I delete the app? Will all my junk messages be deleted too?
+
+No, the app cannot delete your messages. If you delete the app, the junk SMS folder on your phone will remain with all the SMSes intact.
+
+### When will the Android version be out? I want this app on my phone!
+
+We are working with our partners to roll out an Android version. We will let you know as soon as it is ready.
+
+### Who built this app?
+
+The app is a collaboration between the NCPC, Open Government Products team (OGP) at the Government Technology Agency of Singapore (GovTech) and SPF.
+
+### Once installed, can hackers hack into my phone if the app is compromised?
+
+As the app does not individually identify any users, and it does not access any other data on your phone, you and your phone are not at risk if the app is compromised.
+
+### How does ScamShield work?
+
+The app filters incoming calls and text messages. Scamshield compares an incoming call against a list maintained by the Singapore Police Force to determine if the number has been used for illegal purposes and blocks it. 
+
+When you receive an incoming SMS from an unknown contact,  Scamshield will determine if the SMS is a scam using an on-device algorithm and filters the messages to a junk SMS folder.
+
+Scam SMSes will be sent to NCPC and SPF for collation. This keeps the app updated and will help protect others from such scam calls and messages.
+
+### Why should I download ScamShield?
+
+Why not? Currently, no telcos can help you filter calls and text messages. 
+
+ScamShield mobile app is free to download and most importantly, it may prevent you from getting scammed. 
+
+### How do I set up the app for the first time?
+
+You can find our app in the Apple App Store if you search for "ScamShield." You can refer to our Setup page for more installation instructions
+
+### Do I need a Wi-Fi or data plan for the app to work?
+
+No, you don’t need Wi-Fi or data plan for the app to work. The app will run on the background to filter incoming calls and text messages. 
+
+However, without Wi-Fi or data plan, the app will be unable to send details of the scam messages and numbers for collation.
+
+### Will the app be able to filter spam messages from WhatsApp?
+
+No, the app can only filter incoming SMSes. If you received spam messages from other chat apps such as WhatsApp, Wechat, IMO, Viber, etc, you can forward the spam messages via in-app reporting function. Alternatively, you can forward the spam messages to +65-8241 0342. Standard text messages apply for each SMS.
+
+### Can I inactivate either the filtering of incoming phone calls or text messages function?
+
+The app is programmed to filter both incoming calls and SMSes.
+
+### I have questions about the app! Who can I ask?
+
+Please feel free to email us at [scamshield@ncpc.org.sg](mailto:scamshield@ncpc.org.sg) for any queries, questions or feedback.

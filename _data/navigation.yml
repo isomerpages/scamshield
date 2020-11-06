@@ -4,14 +4,15 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+logo: /images/scamshield-logo-horizontal-blue.png
 
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Faq
+  - title: Setup Guide
+    url: /setup-guide/
+  - title: FAQ
     url: /faq/
-  - title: Left Nav One
-    collection: left-nav-one
-  - title: Left Nav Two
-    collection: left-nav-two
+  - title: Contact Us
+    url: /contact-us/    
+  - title: Get the iOS App
+    url: https://www.apple.com.sg/
+

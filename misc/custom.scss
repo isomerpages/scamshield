@@ -173,7 +173,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .bp-section.bp-section-pagetitle {
-  background-color: $primary !important;
+  background-color: $secondary !important;
 }
 
 // Pagination
@@ -334,4 +334,16 @@ $desktop: 960px + (2 * $gap) !default;
   @include touch() {
     width: 100%;
   }
+}
+	  
+.bp-hero-body {
+  background: rgba(0, 0, 0, 0);
+}
+
+.bp-hero-body p {
+  color: $primary;
+}
+	  
+.bp-hero-body h1 {
+  color: $secondary;
 }
