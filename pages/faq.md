@@ -16,7 +16,7 @@ Yes. A junk SMS folder will be created on your phone. It is the same concept as 
 
 ### Are there any privacy concerns with using the app?
 
-Nope, iOS has strict privacy rules on what Scamshield can or cannot read. If a message comes from a known contact, iOS will not pass the SMS to Scamshield. If you have previously interacted with an unknown contact or decided to engage an unknown contact in conversation then Scamshield will not get to see the message either. Only messages sent by unknown persons via SMS will be read by the AI. The app also does not have any access to your location data or any personal data (because it&#39;s not necessary!)
+Nope, iOS has strict privacy rules on what ScamShield can or cannot read. If a message comes from a known contact, iOS will not pass the SMS to Scamshield. If you have previously interacted with an unknown contact or decided to engage an unknown contact in conversation then ScamShield will not get to see the message either. Only messages sent by unknown persons via SMS will be read by the AI. The app also does not have any access to your location data or any personal data (because it&#39;s not necessary!)
 
 ### What happens if I delete the app? Will all my junk messages be deleted too?
 
@@ -36,9 +36,9 @@ As the app does not individually identify any users, and it does not access any 
 
 ### How does ScamShield work?
 
-The app filters incoming calls and text messages. Scamshield compares an incoming call against a list maintained by the Singapore Police Force to determine if the number has been used for illegal purposes and blocks it. 
+The app filters incoming calls and text messages. ScamShield compares an incoming call against a list maintained by the Singapore Police Force to determine if the number has been used for illegal purposes and blocks it. 
 
-When you receive an incoming SMS from an unknown contact,  Scamshield will determine if the SMS is a scam using an on-device algorithm and filters the messages to a junk SMS folder.
+When you receive an incoming SMS from an unknown contact,  ScamShield will determine if the SMS is a scam using an on-device algorithm and filters the messages to a junk SMS folder.
 
 Scam SMSes will be sent to NCPC and SPF for collation. This keeps the app updated and will help protect others from such scam calls and messages.
 
