@@ -2,10 +2,10 @@
 title: How to setup Scamshield
 permalink: /how-to-setup-scamshield/
 ---
-Follow these 3 steps to setup Scamshield and start protecting yourself against Scams
+Follow these 3 steps to setup ScamShield and start protecting yourself against Scams
 
 #### Step 1:
-* Download the application from the Apple App Store by searching for Scamshield on the App Store or clicking on this link
+* Download the application from the Apple App Store by searching for ScamShield on the App Store or clicking on this link
 * Do not download applications that are not from the official Apple Store
 
 #### Step 2:
@@ -18,6 +18,6 @@ Follow these 3 steps to setup Scamshield and start protecting yourself against S
 * Go to your Settings
 * Tap on Messages 
 * Tap on Unknown & Spam
-* Enable Scamshield
+* Enable ScamShield
 
 
