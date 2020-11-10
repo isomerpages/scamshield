@@ -50,7 +50,7 @@ ScamShield mobile app is free to download and most importantly, it may prevent y
 
 ### How do I set up the app for the first time?
 
-You can find our app in the Apple App Store if you search for "ScamShield." You can refer to our Setup page for more installation instructions
+You can find our app in the Apple App Store if you search for "ScamShield" or click on this [link](https://apps.apple.com/sg/app/scamshield/id1497144087). You can refer to our Setup page for more installation instructions
 
 ### Do I need a Wi-Fi or data plan for the app to work?
 
