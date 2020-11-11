@@ -8,7 +8,7 @@ locations:
     address:
         - 28 Irrawaddy Rd 
         - Singapore 329560
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+    maps_link: https://goo.gl/maps/eZMaqeuiZb3J68w98
 contacts:
   - title: General Enquiries & Feedback
     content:

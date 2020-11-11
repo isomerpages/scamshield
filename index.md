@@ -17,8 +17,8 @@ sections:
         - title: FAQ
           description: Got a question?
           url: /faq/
-        - title: Scam alert
-          description: Latest scam information
+        - title: For latest scam information
+          description: Visit ScamAlert.sg
           url: 'https://www.scamalert.sg'
   - infopic:
       title: Block scam calls
