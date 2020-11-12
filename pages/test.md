@@ -2,7 +2,7 @@
 title: test
 permalink: /test
 ---
-**test 
+**test
 **
 <script>
 	alert("asdasd")
