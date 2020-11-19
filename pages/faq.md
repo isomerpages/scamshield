@@ -8,7 +8,7 @@ No. The app only blocks calls from our database of blocked numbers, managed cent
 
 ### Will it filter SMSes from people I know?
 
-The app does not operate on messages coming from people already in your contact list or contacts that you have an existing conversation with.
+The app does filter messages coming from people in your contact list or contacts that you have an existing conversation with.
 
 ### Will I still be able to see the SMSes that have been filtered?
 
@@ -20,7 +20,7 @@ Nope, iOS has strict privacy rules on what ScamShield can or cannot read. If a m
 
 ### What happens if I delete the app? Will all my junk messages be deleted too?
 
-No, the app cannot delete your messages. If you delete the app, the junk SMS folder on your phone will remain with all the SMSes intact.
+No, the app does not delete your messages. If you delete the app, the junk SMS folder on your phone will remain with all the SMSes intact.
 
 ### When will the Android version be out? I want this app on my phone!
 
@@ -44,9 +44,9 @@ Scam SMSes will be sent to NCPC and SPF for collation. This keeps the app update
 
 ### Why should I download ScamShield?
 
-Why not? Currently, no telcos can help you filter calls and text messages. 
+Currently, telcos do not help you filter scam and spam calls and text messages. 
 
-ScamShield mobile app is free to download and most importantly, it may prevent you from getting scammed. 
+ScamShield mobile app is free to download and most importantly, it may prevent scammers from contacting you. 
 
 ### How do I set up the app for the first time?
 
@@ -64,7 +64,7 @@ No, the app can only filter incoming SMSes. If you received spam messages from o
 
 ### Can I inactivate either the filtering of incoming phone calls or text messages function?
 
-The app is programmed to filter both incoming calls and SMSes.
+Yes, either function can be deactivated at any time in your settings. To learn more visit our [setup guide](https://www.scamshield.sg/setup-guide/)
 
 ### I have questions about the app! Who can I ask?
 
