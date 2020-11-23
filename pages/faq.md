@@ -8,7 +8,7 @@ No. The app only blocks calls from our database of blocked numbers, managed cent
 
 ### Will it filter SMSes from people I know?
 
-The app does filter messages coming from people in your contact list or contacts that you have an existing conversation with.
+The app does **not** filter messages coming from people in your contact list or contacts that you have an existing conversation with.
 
 ### Will I still be able to see the SMSes that have been filtered?
 
