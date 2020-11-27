@@ -2,6 +2,11 @@
 title: FAQ
 permalink: /faq/
 ---
+### I can't find the application on my Apple App Store or it tells me it is not available in my Region?
+
+The application is only made available in Singapore. If you are on another country/region, you can go to your Apple ID and change the country/region to Singapore which would allow you to download ScamShield
+
+
 ### Will the app block calls from people I know?
 
 No. The app only blocks calls from our database of blocked numbers, managed centrally by the National Crime Prevention Council (NCPC) and Singapore Police Force (SPF).
