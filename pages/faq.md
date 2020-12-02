@@ -73,13 +73,13 @@ Yes, either function can be deactivated at any time in your settings. To learn m
 
 ### I can't find the option to enable call blocking and SMS filtering?
 
-We understand that some users are not able to find this setting. If you do not have the setting you can try the following:
-1. Go to Settings 
-2. Got to Privacy 
-3. Under Tracking 
-4. Allow Apps to Request to Track and “Enable" the option
-5. If the setting is already "Enable", please "Disable" and then "Enable" it once more
-The call blocking and SMS filtering option should appear
+If you do not have the setting you can try the following:
+1. Go to your Settings 
+2. Go to Privacy 
+3. Got to Tracking 
+4. Enable the option "Allow Apps to Request to Track"
+5. If the setting is already "Enable", please disable" and re-enable it once more
+6. The call blocking and SMS filtering option should appear
 
 ### I have questions about the app! Who can I ask?
 
