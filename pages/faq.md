@@ -71,6 +71,16 @@ No, the app can only filter incoming SMSes. If you received spam messages from o
 
 Yes, either function can be deactivated at any time in your settings. To learn more visit our [setup guide](https://www.scamshield.sg/setup-guide/)
 
+### I can't find the option to enable call blocking and SMS filtering?
+
+We understand that some users are not able to find this setting. If you do not have the setting you can try the following:
+1. Go to Settings 
+2. Got to Privacy 
+3. Under Tracking 
+4. Allow Apps to Request to Track and “Enable" the option
+5. If the setting is already "Enable", please "Disable" and then "Enable" it once more
+The call blocking and SMS filtering option should appear
+
 ### I have questions about the app! Who can I ask?
 
 Please feel free to email us at [scamshield@ncpc.org.sg](mailto:scamshield@ncpc.org.sg) for any queries, questions or feedback.
