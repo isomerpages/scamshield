@@ -76,7 +76,7 @@ Yes, either function can be deactivated at any time in your settings. To learn m
 If you do not have the setting you can try the following:
 1. Go to your Settings 
 2. Go to Privacy 
-3. Got to Tracking 
+3. Go to Tracking 
 4. Enable the option "Allow Apps to Request to Track"
 5. If the setting is already "Enable", please disable" and re-enable it once more
 6. The call blocking and SMS filtering option should appear
