@@ -2,12 +2,12 @@
 title: Setup Guide
 permalink: /setup-guide/
 ---
-Follow these 3 steps to setup Scamshield and start protecting yourself against scams.
-
-### 1. Download from App Store
+**Scamshield is currently only available on iOS devices**
 Search for Scamshield on the App Store or click on this [link](https://apps.apple.com/sg/app/scamshield/id1497144087). Do not download applications that are not from the official Apple Store.
 
-### 2. Block known scam callers
+## Set up Scamshield to filter unwanted calls and SMSes
+
+### To enable call blocking
 *  Open **Settings**
 *  Tap **Phone**
 *  Tap **Call Blocking & Identification**
@@ -16,7 +16,7 @@ Search for Scamshield on the App Store or click on this [link](https://apps.appl
 ![](/images/setup-guide1.png)
 
 
-### 3. Enable auto spam SMS filter
+### To enable SMS filtering
 * Open **Settings**
 * Tap **Messages**
 * Tap **Unknown & Spam**
