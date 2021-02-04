@@ -4,8 +4,8 @@ permalink: /setup-guide/
 ---
 **Scamshield is currently only available on iOS devices**
 
-<a href="https://apps.apple.com/sg/app/scamshield/id1497144087" alt="Apple App Store link"><img src="/images/applestore.png" style="width:186px;float:left" /></a>
-
+<a href="https://apps.apple.com/sg/app/scamshield/id1497144087" alt="Apple App Store link"><img src="/images/applestore.png" style="width:160px;float:left" /></a>
+<br>
 ### Set up Scamshield to filter unwanted calls and SMSes
 ---
 ### To enable call blocking
