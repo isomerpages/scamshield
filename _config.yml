@@ -15,9 +15,6 @@ colors:
       color: '#bd10e0'
     - title: media-color-five
       color: '#00838f'
-collections:
-  left-nav-one:
-    output: false
 is_government: false
 permalink: none
 baseurl: ''
@@ -46,10 +43,13 @@ custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+description: test test
+resources_name: ''
+staging: https://scamshield-staging.netlify.app/
+prod: https://scamshield-prod.netlify.app/
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-description: test test
-resources_name: ''
+  - jekyll-remote-theme

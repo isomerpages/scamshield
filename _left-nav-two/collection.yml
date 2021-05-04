@@ -1,0 +1,6 @@
+collections:
+  left-nav-two:
+    output: false
+    order:
+      - sub-page-c.md
+      - sub-page-d.md
