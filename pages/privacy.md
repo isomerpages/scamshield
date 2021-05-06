@@ -26,4 +26,4 @@ ScamShield collects anonymised data about your device and app (e.g. device model
 Users may, at their full discretion, turn off any or all of the features of Scamshield on their devices. By going to the device settings, you can turn off the automatic filtering and reporting of scam messages, the automatic blocking of calls from scam numbers, and you can even turn off push notifications on the latest scam typologies. By doing so, you acknowledge that your user experience may be affected and the application may not function as intended.
 
 #### Reporting unknown numbers via ScamShield
-Users can report unknown or unsolicited numbers through ScamShield by providing the source number and text message. Users can also easily report unsolicited messages SMSes by forwarding the SMS to our number at +65 8241 0342.
+Users can report unknown or unsolicited numbers through ScamShield by providing the source number and text message. 
