@@ -2,7 +2,6 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
-
 #### ScamShield Privacy Safeguards
 ScamShield is an application that works actively in the background to  **facilitate the detection, reporting and blocking of potential scam calls, as well as messages from unknown numbers not in your contact list.** 
 
@@ -16,7 +15,7 @@ For full transparency, the only data we store is:
 
 We do not store any other data and there are no identifiers to trace back to any individual users. For the avoidance of doubt, only SMSes that the ScamShield application determines to be scam are automatically reported and sent to NCPC, and ScamShield does not have the capability to read **any** other messages on your phone.
 
-If you feel that your number might have been blocked as a scam number by ScamShield, you may write in to [input email later].
+If you feel that your number might have been blocked as a scam number by ScamShield, you may write in to [scamshield@ncpc.org.sg](mailto:scamshield@ncpc.org.sg).
 
 This is subject to the conclusion of investigation, if any, by the Singapore Police Force regarding your number.
 
