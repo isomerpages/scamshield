@@ -17,9 +17,6 @@ sections:
         - title: FAQ
           description: Got a question?
           url: /faq/
-        - title: Report a scam
-          description: Help us make Scamshield better
-          url: /report/
         - title: For latest scam information
           description: Visit ScamAlert.sg
           url: 'https://www.scamalert.sg'
