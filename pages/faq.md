@@ -65,7 +65,7 @@ However, without Wi-Fi or data plan, the app will be unable to send details of t
 
 ### Will the app be able to filter spam messages from WhatsApp?
 
-No, the app can only filter incoming SMSes. If you received spam messages from other chat apps such as WhatsApp, Wechat, IMO, Viber, etc, you can forward the spam messages via in-app reporting function. Alternatively, you can forward the spam messages to +65-8241 0342. Standard text messages apply for each SMS.
+No, the app can only filter incoming SMSes. If you received spam messages from other chat apps such as WhatsApp, Wechat, IMO, Viber, etc, you can forward the spam messages via in-app reporting function. 
 
 ### Can I inactivate either the filtering of incoming phone calls or text messages function?
 
