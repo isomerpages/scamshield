@@ -51,7 +51,7 @@ Scam SMSes will be sent to NCPC and SPF for collation. This keeps the app update
 
 On Android devices, we are unable to automatically move messages which ScamShield has identified as potential scam to the junk folder. 
 
-Since the release of [Android 4.4] (https://developer.android.com/about/versions/kitkat/android-4.4#SMS) in 2013, users can select a “default SMS app” within the system settings on their phone. When the default SMS app is selected, only this app has the ability to modify the broadcasted action that can affect the delivery of an SMS. As ScamShield is not an SMS app, it does not have the same privileges as the default SMS app, and therefore can only be notified of incoming SMSes, but cannot affect the delivery of SMSes. 
+Since the release of [Android 4.4](https://developer.android.com/about/versions/kitkat/android-4.4#SMS) in 2013, users can select a “default SMS app” within the system settings on their phone. When the default SMS app is selected, only this app has the ability to modify the broadcasted action that can affect the delivery of an SMS. As ScamShield is not an SMS app, it does not have the same privileges as the default SMS app, and therefore can only be notified of incoming SMSes, but cannot affect the delivery of SMSes. 
 
 Android users on ScamShield will instead receive a push notification when they receive a potential scam SMS. They can find also find a compiled list of scam SMSes they have received on the in-app Alerts History page.
 
