@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: ScamShield
+title: ScamShield | Open Government Products
 description: >-
   ScamShield is an application that protects you against unsolicited messages
   and calls from unknown contacts or known scammers
