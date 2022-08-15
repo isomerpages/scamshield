@@ -1,23 +1,23 @@
 title: National Crime Prevention Council
-url: ''
+url: ""
 favicon: /images/scamshield-favicon.png
 colors:
-  primary-color: '#001E6C'
-  secondary-color: '#2D81FF'
+  primary-color: "#001E6C"
+  secondary-color: "#2D81FF"
   media-colors:
     - title: media-color-one
-      color: '#d0021b'
+      color: "#d0021b"
     - title: media-color-two
-      color: '#f5a623'
+      color: "#f5a623"
     - title: media-color-three
-      color: '#f8e71c'
+      color: "#f8e71c"
     - title: media-color-four
-      color: '#bd10e0'
+      color: "#bd10e0"
     - title: media-color-five
-      color: '#00838f'
+      color: "#00838f"
 is_government: false
 permalink: none
-baseurl: ''
+baseurl: ""
 exclude:
   - travis-script.js
   - .travis.yml
@@ -35,7 +35,7 @@ include:
   - _redirects
 defaults:
   - scope:
-      path: ''
+      path: ""
     values:
       layout: page
 custom_css_path: /misc/custom.css
@@ -44,7 +44,7 @@ paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 description: test test
-resources_name: ''
+resources_name: ""
 staging: https://scamshield-staging.netlify.app/
 prod: https://scamshield-prod.netlify.app/
 plugins:
@@ -53,3 +53,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
+shareicon: /images/isomer-logo.svg
+facebook-pixel: ""
+google_analytics: G-S9PKR4G04J
+linkedin-insights: ""
