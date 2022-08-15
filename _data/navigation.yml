@@ -1,18 +1,10 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/scamshield-logo-horizontal-blue.png
-
 links:
   - title: Setup Guide
     url: /setup-guide/
   - title: FAQ
     url: /faq/
   - title: Contact Us
-    url: /contact-us/    
+    url: /contact-us/
   - title: Get the iOS App
     url: https://apps.apple.com/sg/app/scamshield/id1497144087
-
