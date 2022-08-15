@@ -1,6 +1,5 @@
-show_reach: 'false'
-feedback: null
+show_reach: false
 social_media:
-  facebook: 'https://www.facebook.com/ncpc.sg'
-  youtube: 'https://www.youtube.com/channel/UClEjzryYSyhd521q9je2faw'
-  instagram: 'https://www.instagram.com/ncpcsg/'
+  facebook: https://www.facebook.com/ncpc.sg
+  youtube: https://www.youtube.com/channel/UClEjzryYSyhd521q9je2faw
+  instagram: https://www.instagram.com/ncpcsg/
