@@ -1,23 +1,23 @@
-title: National Crime Prevention Council
-url: ''
+title: ScamShield | Open Government Products
+url: https://www.scamshield.org.sg
 favicon: /images/scamshield-favicon.png
 colors:
-  primary-color: '#001E6C'
-  secondary-color: '#2D81FF'
+  primary-color: "#001E6C"
+  secondary-color: "#2D81FF"
   media-colors:
     - title: media-color-one
-      color: '#d0021b'
+      color: "#d0021b"
     - title: media-color-two
-      color: '#f5a623'
+      color: "#f5a623"
     - title: media-color-three
-      color: '#f8e71c'
+      color: "#f8e71c"
     - title: media-color-four
-      color: '#bd10e0'
+      color: "#bd10e0"
     - title: media-color-five
-      color: '#00838f'
+      color: "#00838f"
 is_government: false
 permalink: none
-baseurl: ''
+baseurl: ""
 exclude:
   - travis-script.js
   - .travis.yml
@@ -35,7 +35,7 @@ include:
   - _redirects
 defaults:
   - scope:
-      path: ''
+      path: ""
     values:
       layout: page
 custom_css_path: /misc/custom.css
@@ -43,8 +43,9 @@ custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-description: test test
-resources_name: ''
+description: ScamShield is an application that protects you against unsolicited
+  messages and calls from unknown contacts or known scammers.
+resources_name: ""
 staging: https://scamshield-staging.netlify.app/
 prod: https://scamshield-prod.netlify.app/
 plugins:
@@ -53,3 +54,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
+shareicon: /images/scamshield-logo-horizontal-blue.png
+facebook-pixel: ""
+google_analytics: UA-240633659-1
+linkedin-insights: ""
