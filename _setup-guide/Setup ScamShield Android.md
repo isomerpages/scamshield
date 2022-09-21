@@ -15,10 +15,10 @@ description: ""
 #### Step 2:
 	
 * Set up the ScamShield app by providing the following permissions:
-	* Set ScamShield as the default caller ID & spam app
-	* Allow access to your contacts
-	* Allow access to make and manage phone calls
-	* Allow access to send and view SMS messages
+	* 	Set ScamShield as the default caller ID & spam app
+	* 	Allow access to your contacts
+	* 	Allow access to make and manage phone calls
+	* 	Allow access to send and view SMS messages
 	
 <img src="/images/Untitled%20presentation.svg" style="width:100%">
 
