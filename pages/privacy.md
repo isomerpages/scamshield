@@ -3,15 +3,17 @@ title: Privacy Statement
 permalink: /privacy/
 ---
 #### ScamShield Privacy Safeguards
-ScamShield is an application that works actively in the background to  **facilitate the detection, reporting and blocking of potential scam calls, as well as potential scam messages from unknown numbers not in your contact list.** 
+ScamShield is an application that works actively in the background to facilitate the detection, reporting and blocking of potential scam calls, as well as potential scam messages from unknown numbers not in your contact list. 
 
 The application does **not** have access to your contact list or any private data found therein. Further, ScamShield cannot access the contents of SMSes already in your inbox prior to installation of ScamShield, and it cannot access your call log. 
 
 We are committed to safeguarding your privacy and we only store the data necessary for the app to function. Further, we align ourselves with the strict privacy parameters set by Apple for iOS, and by Google for Android, and we follow the commercial best practices of data protection and data governance.
 
 For full transparency, the only data we collect and store is:
-1. Contents of messages that are flagged up by ScamShield as potential &#39;scam&#39; messages;
-2. The sender ID and/or contact number(s) of the person who sends such potential &#39;scam&#39; messages
+
+*  Contents of messages that are flagged up by ScamShield as potential scam messages
+*  The sender ID and/or contact number(s) of the person who sends such potential scam messages
+
 
 We do not store any other data and there are no identifiers to trace back to any individual users of the application. For the avoidance of doubt, only SMSes that the ScamShield application determines to be potential scams are automatically reported and sent to NCPC, and ScamShield does not have the capability to read **any** other messages on your phone.
 
