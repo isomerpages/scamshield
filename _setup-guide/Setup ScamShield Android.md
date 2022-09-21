@@ -6,6 +6,7 @@ description: ""
 ### Set up Scamshield Android to filter unwanted calls and SMSes
 ---
 #### Step 1:
+
 * Download ScamShield from the Google Play Store by clicking on this [link](https://play.google.com/store/apps/details?id=sg.gov.scamshield) or searching for ScamShield on the Play Store.
 * You can also download ScamShield by scanning this QR code:
 <img src="/images/scamshield-android.png" style="width:40%">
