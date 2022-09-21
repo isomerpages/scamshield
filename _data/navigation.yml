@@ -1,7 +1,7 @@
 logo: /images/scamshield-logo-horizontal-blue.png
 links:
   - title: Setup Guide
-    url: /setup-guide/
+    collection: setup-guide
   - title: FAQ
     url: /faq/
   - title: Contact Us
