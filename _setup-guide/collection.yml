@@ -1,0 +1,4 @@
+collections:
+  setup-guide:
+    output: true
+    order: []
