@@ -17,11 +17,10 @@ Follow these 3 steps to setup ScamShield on your Android device and start protec
 	* Allow access to your contacts
 	* Allow access to make and manage phone calls
 	* Allow access to send and view SMS messages
-
+	
 <img src="/images/Untitled%20presentation.svg" style="width:100%">
 
 #### Step 3:
 * Send a test notification to your phone
 
 <img src="/images/test%20notifications.png" style="width:40%">
-	
