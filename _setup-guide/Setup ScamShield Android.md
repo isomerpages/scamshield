@@ -3,7 +3,7 @@ title: Setup ScamShield Android
 permalink: /setup-guide/permalink/
 description: ""
 ---
-### Set up Scamshield Android to filter unwanted calls and SMSes
+### Set up Scamshield Android to block scam calls and detect scam SMSes
 ---
 #### Step 1:
 
