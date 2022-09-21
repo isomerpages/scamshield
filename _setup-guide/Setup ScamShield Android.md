@@ -26,10 +26,10 @@ description: ""
 	
 * Send a test notification to your phone
 
-<img src="/images/test%20notifications.png" style="width:40%">
+<img src="/images/test%20notifications.png" style="width:30%">
 
 #### Done!
 	
 If you come across further scam messages, you can report them using Scamshield’s in-app reporting function.
 
-<img src="/images/Report%20-%20Call.png" style="width:40%">
+<img src="/images/Report%20-%20Call.png" style="width:30%">
