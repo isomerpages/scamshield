@@ -2,4 +2,4 @@ collections:
   setup-guide:
     output: true
     order:
-      - How-to-setup-Scamshield.md
+      - Setup ScamShield iOS.md
