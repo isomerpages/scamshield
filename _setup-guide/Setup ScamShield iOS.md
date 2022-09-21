@@ -3,7 +3,7 @@ title: Setup ScamShield iOS
 permalink: /how-to-setup-scamshield/
 description: ""
 ---
-### Set up Scamshield iOS to filter unwanted calls and SMSes
+### Set up Scamshield iOS to block scam calls and SMSes
 ---
 <a href="https://apps.apple.com/sg/app/scamshield/id1497144087" alt="Apple App Store link"><img src="/images/applestore.png" style="width:160px;float:left" /></a>
 <br>
