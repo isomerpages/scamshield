@@ -83,7 +83,7 @@ No, the app can only filter incoming SMSes. If you received spam messages from o
 
 ### Can I deactivate either the filtering of incoming phone calls or text messages function?
 
-Yes, either function can be deactivated at any time in your settings. Take note that this will limit the functionality of the app. To learn more visit our [setup guide](/setup%20guide) [setup guide](https://www.scamshield.org.sg/setup-guide/)
+Yes, either function can be deactivated at any time in your settings. Take note that this will limit the functionality of the app. To learn more visit our [setup guide](https://www.scamshield.org.sg/setup-guide/)
 
 ### I can't find the option to enable call blocking and SMS filtering?
 
