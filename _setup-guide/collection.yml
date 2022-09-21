@@ -1,4 +1,5 @@
 collections:
   setup-guide:
     output: true
-    order: []
+    order:
+      - How-to-setup-Scamshield.md
