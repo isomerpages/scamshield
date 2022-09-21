@@ -7,21 +7,21 @@ Follow these 3 steps to setup ScamShield on your Android device and start protec
 
 #### Step 1:
 * Download ScamShield from the Google Play Store by clicking on this [link](https://play.google.com/store/apps/details?id=sg.gov.scamshield) or searching for ScamShield on the Play Store.
-* You can also download ScamShield by scanning this QR code: !
+* You can also download ScamShield by scanning this QR code:
 <img src="/images/scamshield-android.png" style="width:40%">
-* Do not download ScamShield outside the official Play Store
+<center>** Do not download ScamShield outside the official Play Store<center>
 
 #### Step 2:
-* Open the ScamShield app
 * Set up the ScamShield app by providing the following permissions:
 	* Set ScamShield as the default caller ID & spam app
-	* Allow ScamShield to access your contacts
-	* Allow ScamShield to make and manage phone calls
-	* Allow ScamShield to send and view SMS messages
+	* Allow access to your contacts
+	* Allow access to make and manage phone calls
+	* Allow access to send and view SMS messages
 
 <img src="/images/Untitled%20presentation.svg" style="width:100%">
 
 #### Step 3:
 * Send a test notification to your phone
-	* A test notification should be received on your phone
-* Once received, click done and you're all set!
+
+<img src="/images/test%20notifications.png" style="width:40%">
+	
