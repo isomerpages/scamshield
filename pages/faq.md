@@ -33,10 +33,6 @@ For iOS, the junk SMS folder on your phone will remain with all the SMSes intact
 
 For Android, all SMSes remain in your SMS folder after the app has been deleted.
 
-### When will the Android version be out? I want this app on my phone!
-
-We are working with our partners to roll out an Android version. We will let you know as soon as it is ready.
-
 ### Who built this app?
 
 The app is a collaboration between the National Crime Prevention Council, and the Open Government Products (OGP) team at the Government Technology Agency of Singapore (GovTech). We also work closely with the Singapore Police Force.
