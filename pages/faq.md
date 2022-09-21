@@ -2,9 +2,9 @@
 title: FAQ
 permalink: /faq/
 ---
-### I can't find the application on my Apple App Store or it tells me it is not available in my Region?
+### I can not find ScamShield on my Apple App Store / Google Play Store or it is not available in my region.
 
-The application is only made available in Singapore. If you are on another country/region, you can go to your Apple ID and change the country/region to Singapore which would allow you to download ScamShield
+The application is only made available in Singapore as the anti-scam functionality is tailored towards scams targeting Singapore. If you are on another country / region, you can go to your app store / play store and change the country / region to Singapore which would allow you to download ScamShield.
 
 
 ### Will the app block calls from people I know?
@@ -17,7 +17,9 @@ The app does **not** filter messages coming from people in your contact list or 
 
 ### Will I still be able to see the SMSes that have been filtered?
 
-Yes. A junk SMS folder will be created on your phone. It is the same concept as a junk folder for your email inbox. You will still be able to see those messages.
+For iOS, filtered messages are sent to a junk SMS folder on your phone. It is the same concept as a junk folder for your email inbox. You will still be able to see those messages.
+
+For Android, the messages remain in your inbox due to Android policy restrictions.
 
 ### Are there any privacy concerns with using the app?
 
@@ -25,7 +27,11 @@ Nope, iOS has strict privacy rules on what ScamShield can or cannot read. If a m
 
 ### What happens if I delete the app? Will all my junk messages be deleted too?
 
-No, the app does not delete your messages. If you delete the app, the junk SMS folder on your phone will remain with all the SMSes intact.
+No, the app does not delete your messages. 
+
+For iOS, the junk SMS folder on your phone will remain with all the SMSes intact even after the app has been deleted. 
+
+For Android, all SMSes remain in your SMS folder after the app has been deleted.
 
 ### When will the Android version be out? I want this app on my phone!
 
@@ -33,7 +39,7 @@ We are working with our partners to roll out an Android version. We will let you
 
 ### Who built this app?
 
-The app is a collaboration between the NCPC, Open Government Products team (OGP) at the Government Technology Agency of Singapore (GovTech) and SPF.
+The app is a collaboration between the National Crime Prevention Council, and the Open Government Products (OGP) team at the Government Technology Agency of Singapore (GovTech). We also work closely with the Singapore Police Force.
 
 ### Once installed, can hackers hack into my phone if the app is compromised?
 
@@ -43,7 +49,7 @@ As the app does not individually identify any users, and it does not access any 
 
 The app filters incoming calls and text messages. ScamShield compares an incoming call against a list maintained by the Singapore Police Force to determine if the number has been used for illegal purposes and blocks it. 
 
-When you receive an incoming SMS from an unknown contact,  ScamShield will determine if the SMS is a scam using an on-device algorithm and filters the messages to a junk SMS folder.
+When you receive an incoming SMS from an unknown contact,  ScamShield will determine if the SMS is a scam using an on-device algorithm. For iOS, it filters the messages to a junk SMS folder. For Android, a notification is sent to users to notify them that a scam message has been received. 
 
 Scam SMSes will be sent to NCPC and SPF for collation. This keeps the app updated and will help protect others from such scam calls and messages.
 
@@ -53,7 +59,7 @@ On Android devices, we are unable to automatically move messages which ScamShiel
 
 Since the release of [Android 4.4](https://developer.android.com/about/versions/kitkat/android-4.4#SMS) in 2013, users can select a “default SMS app” within the system settings on their phone. When the default SMS app is selected, only this app has the ability to modify the broadcasted action that can affect the delivery of an SMS. As ScamShield is not an SMS app, it does not have the same privileges as the default SMS app, and therefore can only be notified of incoming SMSes, but cannot affect the delivery of SMSes. 
 
-Android users on ScamShield will instead receive a push notification when they receive a potential scam SMS. They can find also find a compiled list of scam SMSes they have received on the in-app Alerts History page.
+Android users on ScamShield will instead receive a push notification when they receive a potential scam SMS. They can also find a compiled list of scam SMSes they have received on the in-app Alerts History page.
 
 ### Why should I download ScamShield?
 
@@ -63,7 +69,11 @@ ScamShield mobile app is free to download and most importantly, it may prevent s
 
 ### How do I set up the app for the first time?
 
-You can find our app in the Apple App Store if you search for "ScamShield" or click on this [link](https://apps.apple.com/sg/app/scamshield/id1497144087). You can refer to our Setup page for more installation instructions
+For iOS, you can find our app in the Apple App Store by clicking on this [link](https://apps.apple.com/sg/app/scamshield/id1497144087) or searching for ScamShield on the App Store.
+
+For Android, you can find our app in the Google Play Store by clicking on this [link](https://play.google.com/store/apps/details?id=sg.gov.scamshield) or searching for ScamShield on the Play Store.
+
+You can refer to our Setup page for more installation instructions
 
 ### Do I need a Wi-Fi or data plan for the app to work?
 
@@ -75,9 +85,9 @@ However, without Wi-Fi or data plan, the app will be unable to send details of t
 
 No, the app can only filter incoming SMSes. If you received spam messages from other chat apps such as WhatsApp, Wechat, IMO, Viber, etc, you can forward the spam messages via in-app reporting function. 
 
-### Can I inactivate either the filtering of incoming phone calls or text messages function?
+### Can I deactivate either the filtering of incoming phone calls or text messages function?
 
-Yes, either function can be deactivated at any time in your settings. To learn more visit our [setup guide](https://www.scamshield.sg/setup-guide/)
+Yes, either function can be deactivated at any time in your settings. Take note that this will limit the functionality of the app. To learn more visit our [setup guide](https://www.scamshield.org.sg/setup-guide/)
 
 ### I can't find the option to enable call blocking and SMS filtering?
 
