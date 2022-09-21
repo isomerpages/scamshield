@@ -11,7 +11,7 @@ description: ""
 <img src="/images/scamshield-android.png" style="width:40%">
 <center>** Do not download ScamShield outside the official Play Store<center>
 
-### Step 2:
+	### Step 2:
 * Set up the ScamShield app by providing the following permissions:
 	* Set ScamShield as the default caller ID & spam app
 	* Allow access to your contacts
