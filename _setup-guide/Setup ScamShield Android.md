@@ -12,6 +12,7 @@ description: ""
 <center>** Do not download ScamShield outside the official Play Store<center>
 
 #### Step 2:
+	
 * Set up the ScamShield app by providing the following permissions:
 	* Set ScamShield as the default caller ID & spam app
 	* Allow access to your contacts
@@ -21,11 +22,13 @@ description: ""
 <img src="/images/Untitled%20presentation.svg" style="width:100%">
 
 #### Step 3:
+	
 * Send a test notification to your phone
 
 <img src="/images/test%20notifications.png" style="width:40%">
 
 #### Done!
+	
 If you come across further scam messages, you can report them using Scamshield’s in-app reporting function.
 
 <img src="/images/Report%20-%20Call.png" style="width:40%">
