@@ -41,7 +41,7 @@ sections:
         SPF for collation. This keeps the app updated and will help protect
         others from such scam calls and messages.
       button: View setup guide
-      url: /setup-guide
+      url: /setup-guide/
       image: /images/FilterSMS.png
       alt: Filter scam SMSes
   - infopic:
