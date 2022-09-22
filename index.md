@@ -29,7 +29,7 @@ sections:
         the Singapore Police Force to determine if the number has been used for
         illegal purposes and blocks it.
       button: View setup guide
-      url: /setup-guide
+      url: /setup-guide/
       alt: Block scam calls
       image: /images/BlockScamCalls.png
   - infopic:
