@@ -11,7 +11,7 @@ sections:
       subtitle: Block unsolicited messages and calls
       background: /images/ScamshieldBanner.png
       button: Set up Scamshield
-      url: /setup-guide/
+      url: /setup-guide/permalink/
       key_highlights:
         - title: FAQ
           description: Got a question?
@@ -29,7 +29,7 @@ sections:
         the Singapore Police Force to determine if the number has been used for
         illegal purposes and blocks it.
       button: View setup guide
-      url: /setup-guide/
+      url: /setup-guide/permalink/
       alt: Block scam calls
       image: /images/BlockScamCalls.png
   - infopic:
@@ -41,7 +41,7 @@ sections:
         SPF for collation. This keeps the app updated and will help protect
         others from such scam calls and messages.
       button: View setup guide
-      url: /setup-guide/
+      url: /setup-guide/permalink/
       image: /images/FilterSMS.png
       alt: Filter scam SMSes
   - infopic:
@@ -51,7 +51,7 @@ sections:
         WhatsApp, Wechat, IMO, Viber, etc. You can forward the messages via
         ScamShield’s in-app reporting function.
       button: View setup guide
-      url: /setup-guide/
+      url: /setup-guide/permalink/
       image: /images/ReportMessage.png
       alt: Report scam messages
   - infobar:
