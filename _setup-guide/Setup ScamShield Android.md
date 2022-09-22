@@ -13,22 +13,21 @@ Download ScamShield from the Google Play Store by clicking on the button below, 
 
 You can also download ScamShield by scanning this QR code:
 <img src="/images/scamshield-android.png" style="width:40%">
-
 ** Do not download ScamShield outside the official Play Store
 
-#### Enable Call Blocking
-	
-* Set up the ScamShield app by providing the following permissions:
-	* 	Set ScamShield as the default caller ID & spam app
-	* 	Allow access to your contacts
-	* 	Allow access to make and manage phone calls
-	* 	Allow access to send and view SMS messages
-	
+#### Enable Access
+Provide the following permissions:
+
+* Set ScamShield as the default caller ID & spam app
+* Allow access to your contacts
+* Allow access to make and manage phone calls
+* Allow access to send and view SMS messages
+** Take note that all permissions have to be selected, otherwise the app will not run properly.
+
 <img src="/images/Untitled%20presentation.svg" style="width:100%">
 
 #### Enable Notifications
-	
-* Send a test notification to your phone
+Send a test notification to your phone
 
 <img src="/images/test%20notifications.png" style="width:30%">
 
