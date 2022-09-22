@@ -12,8 +12,7 @@ Download ScamShield from the Apple App Store by clicking on this link or searchi
 
 <br>
 You can also download ScamShield by scanning this QR code:
-
-
+<img src="/images/ss-ios.png" style="width:40%">
 
 ### To enable call blocking
 *  Open **Settings**
