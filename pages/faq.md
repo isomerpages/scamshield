@@ -19,11 +19,11 @@ The app does **not** filter messages coming from people in your contact list or 
 
 For iOS, filtered messages are sent to a junk SMS folder on your phone. It is the same concept as a junk folder for your email inbox. You will still be able to see those messages.
 
-For Android, the messages remain in your inbox due to Android policy restrictions.
+For Android, anotification is sent to inform you about the scam message. All messages remain in your inbox due to Android policy restrictions.
 
 ### Are there any privacy concerns with using the app?
 
-Nope, iOS has strict privacy rules on what ScamShield can or cannot read. If a message comes from a known contact, iOS will not pass the SMS to Scamshield. If you have previously interacted with an unknown contact or decided to engage an unknown contact in conversation then ScamShield will not get to see the message either. Only messages sent by unknown persons via SMS will be read by the AI. The app also does not have any access to your location data or any personal data (because it&#39;s not necessary!)
+Nope, iOS has strict privacy rules on what ScamShield can or cannot read. If a message comes from a known contact, iOS will not pass the SMS to Scamshield. If you have previously interacted with an unknown contact or decided to engage an unknown contact in conversation then ScamShield will not get to see the message either. Only messages sent by unknown persons via SMS will be read by the AI. The app also does not have any access to your location data or any personal data (because it's not necessary!)
 
 ### What happens if I delete the app? Will all my junk messages be deleted too?
 
