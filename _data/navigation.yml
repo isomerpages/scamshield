@@ -1,5 +1,7 @@
 logo: /images/scamshield-logo-horizontal-blue.png
 links:
+  - title: About Us
+    url: /permalink
   - title: Setup Guide
     collection: setup-guide
   - title: FAQ
@@ -10,5 +12,3 @@ links:
     url: https://apps.apple.com/sg/app/scamshield/id1497144087
   - title: Get the Android App
     url: https://play.google.com/store/apps/details?id=sg.gov.scamshield
-  - title: About Us
-    url: /permalink
