@@ -15,10 +15,10 @@ The ScamShield mobile app has 3 main features: 
 
 ## How it works
 
-The ScamShield app checks incoming calls and text messages. An incoming call from an unknown contact is checked against our database to determine if the number has been used for scams and blocks it.
+The ScamShield app detects incoming scam calls and text messages. An incoming call from an unknown contact is checked against our database to determine if the number has been used for scams and blocks it.
 
 For incoming SMSes from an unknown contact, ScamShield will determine if the SMS is a scam using an on-device algorithm. For the iOS version, it filters the scam SMSes to a junk folder. For Android, a notification is sent to alert users that a scam message has been received.
 
-Detected and reported scam messages and calls are sent to NCPC and SPF for collation. This keeps the app updated and will help protect others from such scam calls and messages.
+Detected and reported scam messages and calls are sent to NCPC and SPF for collation. This keeps the app updated and will help protect others from such scam calls and messages. 
 
-ScamShield does not collect any personal information from the user. 
+ScamShield does not collect any personal information from the user.
