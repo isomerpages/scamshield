@@ -21,4 +21,4 @@ For incoming SMSes from an unknown contact, ScamShield will determine if the SMS
 
 Detected and reported scam messages and calls are sent to NCPC and SPF for collation. This keeps the app updated and will help protect others from such scam calls and messages.
 
-ScamShield does not collect any personal information from the user.
+ScamShield does not collect any personal information from the user. 
