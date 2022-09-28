@@ -2,5 +2,5 @@ collections:
   setup-guide:
     output: true
     order:
-      - Setup ScamShield Android.md
+      - Set up ScamShield Android.md
       - Setup ScamShield iOS.md
