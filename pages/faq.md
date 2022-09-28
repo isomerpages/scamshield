@@ -2,6 +2,10 @@
 title: FAQ
 permalink: /faq/
 ---
+### Who do I contact if my number was blocked by ScamShield?
+Write in to [scamshield@ncpc.org.sg](mailto:scamshield@ncpc.org.sg) if you feel  your number might have been blocked by ScamShield. 
+
+
 ### How does ScamShield work?
 
 The app filters incoming calls and text messages. ScamShield compares an incoming call against a list maintained by the Singapore Police Force to determine if the number has been used for illegal purposes and blocks it. 
