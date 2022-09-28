@@ -32,4 +32,4 @@ You can also download ScamShield by scanning this QR code:
 ![](/images/setup-guide2.png)
 
 ### Done!
-If you come across further scam messages, you can report them using Scamshield’s in-app reporting function.
+If you come across other scam messages, you can report them using Scamshield’s in-app reporting function.
