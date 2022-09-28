@@ -8,26 +8,26 @@ permalink: /
 sections:
   - hero:
       title: ScamShield
-      subtitle: Block unsolicited messages and calls
+      subtitle: Protection from unsolicited messages and calls
       background: /images/ScamshieldBanner.png
       button: Set up Scamshield
       url: /setup-guide/permalink/
       key_highlights:
         - title: FAQ
-          description: Got a question?
+          description: Have a question?
           url: /faq/
         - title: Report a scam
-          description: Help us make Scamshield better
+          description: Help us make ScamShield better
           url: /report/
-        - title: For latest scam information
+        - title: For the latest scam information
           description: Visit ScamAlert.sg
           url: https://www.scamalert.sg
   - infopic:
       title: Block scam calls
       subtitle: Feature
-      description: ScamShield compares an incoming call against a list maintained by
-        the Singapore Police Force to determine if the number has been used for
-        illegal purposes and blocks it.
+      description: ScamShield checks incoming calls against a list maintained by the
+        Singapore Police Force to see if the number has been used for illegal
+        purposes, and blocks it.
       button: View setup guide
       url: /setup-guide/permalink/
       alt: Block scam calls
@@ -61,5 +61,3 @@ sections:
       url: /faq/
 notification: ""
 ---
-
-
