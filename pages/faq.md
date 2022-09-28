@@ -75,9 +75,9 @@ You can refer to our Setup page for more installation instructions
 
 ### Do I need a Wi-Fi or data plan for the app to work?
 
-You don’t need Wi-Fi or a data plan for the app to detect scam messages. The app will run in the background to detect incoming text messages. 
+You don’t need Wi-Fi or a data plan for the app to detect scam messages. The app will run in the background to detect incoming scam text messages. 
 
-However, without Wi-Fi or a data plan, the app will be unable to block scam calls, and will not be able to send details of reported scam messages and numbers for collation.
+However, without Wi-Fi or a data plan, the app will not be able to block scam calls, and will not be able to send details of reported scam messages and numbers for collation.
 
 ### Will the app be able to filter spam messages from WhatsApp?
 
