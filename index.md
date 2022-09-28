@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: ScamShield | National Crime Prevention Council
+title: ScamShield | Open Government Products
 description: ScamShield is an application that protects you against unsolicited
   messages and calls from unknown contacts or known scammers.
 image: /images/scamshield-logo-horizontal-blue.png
@@ -61,4 +61,5 @@ sections:
       url: /faq/
 notification: ""
 ---
+
 
