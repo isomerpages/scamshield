@@ -2,10 +2,6 @@
 title: FAQ
 permalink: /faq/
 ---
-### Who do I contact if my number was blocked by ScamShield?
-Write in to [scamshield@ncpc.org.sg](mailto:scamshield@ncpc.org.sg) if you feel  your number might have been blocked by ScamShield. 
-
-
 ### How does ScamShield work?
 
 The app filters incoming calls and text messages. ScamShield compares an incoming call against a list maintained by the Singapore Police Force to determine if the number has been used for illegal purposes and blocks it. 
@@ -21,7 +17,6 @@ The app is a collaboration between the National Crime Prevention Council, and th
 ### I can't find ScamShield on my Apple App Store/Google Play Store, or it is not available in my region.
 
 The application is only available in Singapore, as the anti-scam functionality is tailored towards scams targeting Singapore. If you are in another country/region, changing your App Store/Play Store country/region to Singapore will allow you to download ScamShield. 
-
 
 ### Will the app block calls from people I know?
 
@@ -103,6 +98,9 @@ If you do not have the setting you can try the following:
 3. Enable the option "Allow Apps to Request to Track"
 4. If the setting is already turned on, please turn it off and then on again
 5. The call blocking and SMS filtering option should appear
+
+### Who do I contact if my number was blocked by ScamShield?
+Write in to [scamshield@ncpc.org.sg](mailto:scamshield@ncpc.org.sg) if you feel  your number might have been blocked by ScamShield. 
 
 ### I have questions about the app! Who can I ask?
 
