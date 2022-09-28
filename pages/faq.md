@@ -102,4 +102,4 @@ If you do not have the setting you can try the following:
 
 ### I have questions about the app! Who can I ask?
 
-For any queries, questions or feedback, please contact us [with this form](https:/go.gov.sg/scamshield-feedback).
+For any queries, questions or feedback, please contact us [through this form](https:/go.gov.sg/scamshield-feedback).
