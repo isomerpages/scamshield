@@ -1,6 +1,0 @@
-collections:
-  left-nav-one:
-    output: false
-    order:
-      - sub-page-a.md
-      - sub-page-b.md
