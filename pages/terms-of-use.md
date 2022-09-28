@@ -3,7 +3,7 @@ title: Terms of Use
 permalink: /terms-of-use/
 ---
 #### General
-1. Welcome to ScamShield provided by the National Crime Prevention Council ("NCPC") and the Government Techology Agency of Singapore (GovTech). These Terms of Use ("Terms") govern your use of ScamShield. Please read these Terms carefully as any non-compliance may result in civil or criminal liability.
+1. Welcome to ScamShield provided by the National Crime Prevention Council ("NCPC") and the Government Techology Agency of Singapore ("GovTech"). These Terms of Use ("Terms") govern your use of ScamShield. Please read these Terms carefully as any non-compliance may result in civil or criminal liability.
 
 2. By accessing and using any part of ScamShield, you agree to be bound by these Terms. You may access and use ScamShield in the manner permitted under these Terms. If you do not agree to these Terms, please do not use ScamShield.
 
@@ -30,7 +30,7 @@ permalink: /terms-of-use/
         
 #### Disclaimers against Warranty, Representation and Liability
 
-5. ScamShield is provided on an 'as-is' and 'as available' basis without warranty of any kind. The accessibility and operation of ScamShield may rely on technologies outside our control. To the extent permitted by law, NCPC and GovTech does not make any representation or warranty of any kind whatsoever in relation to ScamShield and disclaim all express, implied and statutory warranties of any kind to you or any third party, whether arising from usage or custom or trade or by operation of law or otherwise, including any representation or warranty
+5. ScamShield is provided on an "as-is" and "as available" basis without warranty of any kind. The accessibility and operation of ScamShield may rely on technologies outside our control. To the extent permitted by law, NCPC and GovTech does not make any representation or warranty of any kind whatsoever in relation to ScamShield and disclaim all express, implied and statutory warranties of any kind to you or any third party, whether arising from usage or custom or trade or by operation of law or otherwise, including any representation or warranty
  
 		(a) as to the accuracy, completeness, correctness, currency, timeliness, reliability, availability, interoperability, security, non-infringement, title, merchantability, quality or fitness for any particular purpose of ScamShield; or 
 		(b) that ScamShield or any associated function or feature will be continuously accessible, uninterrupted or error-free, or that defects will be corrected or that ScamShield and their servers are and will be free of virus or other malicious, destructive or corrupting code, programme or macro.
