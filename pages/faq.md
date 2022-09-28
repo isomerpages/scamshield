@@ -104,4 +104,4 @@ Write in to [scamshield@ncpc.org.sg](mailto:scamshield@ncpc.org.sg) if you feel 
 
 ### I have questions about the app! Who can I ask?
 
-For any queries, questions or feedback, please contact us through this form: https:/go.gov.sg/scamshield-feedback.
+For any queries, questions or feedback, please contact us [through this form](https://go.gov.sg/scamshield-feedback.)
