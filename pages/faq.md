@@ -102,4 +102,4 @@ If you do not have the setting you can try the following:
 
 ### I have questions about the app! Who can I ask?
 
-Please feel free to email us at [scamshield@ncpc.org.sg](mailto:scamshield@ncpc.org.sg) for any queries, questions or feedback.
+For any queries, questions or feedback, please contact us [with this form](https:/go.gov.sg/scamshield-feedback).
