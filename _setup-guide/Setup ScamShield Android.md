@@ -33,6 +33,6 @@ Send a test notification to your phone
 
 #### Done!
 	
-If you come across further scam messages, you can report them using Scamshield’s in-app reporting function.
+If you come across other scam messages, you can report them using Scamshield’s in-app reporting function.
 
 <img src="/images/Report%20-%20Call.png" style="width:30%">
