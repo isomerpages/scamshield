@@ -19,12 +19,12 @@ We do not store any other data and there are no identifiers to trace back to any
 
 ScamShield works hard to ensure that you are protected from scam messages, however, like all technology, it is not perfect, and some legitimate personal messages may be wrongly classified as potential scam messages. You need not worry, we do not take any further action on these messages, but may use them to train the algorithm to better recognize which messages are scam and which messages are not. If you feel that a message was wrongly classified as scam, you may write in to us at [scamshield@ncpc.org.sg](mailto:scamshield@ncpc.org.sg) and we can permanently delete it on our system for you.
 
-NCPC may share the contents of such potential scam messages with the Singapore Police Force (SPF) for their investigations. The SPF may, upon the conclusion of investigations, recommend to blacklist numbers that are involved in illegal activities. The SPF may also work with MCI for further investigations, if necessary. All information will be kept strictly confidential for the purposes of such investigations.
+NCPC may share the contents of such potential scam messages with the Singapore Police Force (SPF) for their investigations. The SPF may, upon the conclusion of investigations, recommend to blacklist numbers that are involved in illegal activities. The SPF may also work with the Ministry of Communications and Information ("MCI") for further investigations, if necessary. All information will be kept strictly confidential for the purposes of such investigations.
 
 If you feel that your number might have been blocked as a scam number by ScamShield, you may write in to [scamshield@ncpc.org.sg](mailto:scamshield@ncpc.org.sg). This is subject to the conclusion of investigation, if any, by the Singapore Police Force regarding your number.
 
 #### Tailoring Your Experience
-Users may, at their full discretion, turn off any or all of the features of Scamshield on their devices. By going to the device settings, you can turn off the automatic filtering and reporting of scam messages, the automatic blocking of calls from scam numbers, and you can even turn off push notifications on the latest scam typologies. By doing so, you acknowledge that your user experience may be affected and the application may not function as intended.
+Users may, at their full discretion, turn off any or all of the features of ScamShield on their devices. By going to the device settings, you can turn off the automatic filtering and reporting of scam messages, the automatic blocking of calls from scam numbers, and you can even turn off push notifications on the latest scam typologies. By doing so, you acknowledge that your user experience may be affected and the application may not function as intended.
 
 #### Reporting unknown numbers via ScamShield
 Users can report unknown or unsolicited numbers through ScamShield by providing the source number and text message.
