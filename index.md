@@ -33,13 +33,11 @@ sections:
       alt: Block scam calls
       image: /images/BlockScamCalls.png
   - infopic:
-      title: Filter scam SMSes
+      title: Detect scam SMSes
       subtitle: Feature
-      description: When you receive an SMS from an unknown contact, ScamShield will
-        determine if the SMS is a scam using an on-device algorithm, and filter
-        the messages to a junk SMS folder. Scam SMSes will be sent to NCPC and
-        SPF for collation. This keeps the app updated and will help protect
-        others from such scam calls and messages.
+      description: An on-device algorithm scans SMSes from unknown numbers to detect
+        scams, and filter them (iOS) or notify users (Android). These are also
+        sent to NCPC and SPF.
       button: View setup guide
       url: /setup-guide/permalink/
       image: /images/FilterSMS.png
