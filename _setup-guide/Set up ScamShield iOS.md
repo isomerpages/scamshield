@@ -4,6 +4,7 @@ permalink: /how-to-setup-scamshield/
 description: ""
 ---
 
+
 ### Set up Scamshield iOS to block scam calls and SMSes
 ---
 ### Download ScamShield 
