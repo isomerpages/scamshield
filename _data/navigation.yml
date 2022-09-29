@@ -8,9 +8,9 @@ links:
     url: /faq/
   - title: Contact Us
     url: /contact-us/
+  - title: Report a Scam
+    url: /report/
   - title: Get the iOS App
     url: https://apps.apple.com/sg/app/scamshield/id1497144087
   - title: Get the Android App
     url: https://play.google.com/store/apps/details?id=sg.gov.scamshield
-  - title: Report a Scam
-    url: /report/
