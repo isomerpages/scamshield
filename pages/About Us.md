@@ -3,17 +3,17 @@ title: About Us
 permalink: /about-us/
 description: ""
 ---
-## What is ScamShield?
+### What is ScamShield?
 ScamShield is an anti-scam product developed by the National Crime Prevention Council and Open Government Products. 
 
-## Features
+### Features
 
 The ScamShield mobile app has 3 main features: 
 * Automatically blocks scam calls
 * Automatically detects scam messages 
 * Allows users to report scam messages and calls
 
-## How it works
+### How it works
 
 The ScamShield app detects incoming scam calls and text messages. Incoming calls from unknown numbers are checked against a database maintained by the Singapore Police Force – if ScamShield determines the number has been used for scams, it'll be blocked.
 
