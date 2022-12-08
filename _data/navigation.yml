@@ -2,12 +2,12 @@ logo: /images/scamshield-logo-horizontal-blue.png
 links:
   - title: About Us
     url: /about-us/
-  - title: Setup Guide
-    collection: setup-guide
   - title: FAQ
     url: /faq/
   - title: Report a Scam
     url: /report/
+  - title: Setup Guide
+    collection: setup-guide
   - title: Download
     url: /permalink/
     sublinks:
