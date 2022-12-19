@@ -1,0 +1,8 @@
+collections:
+  home:
+    output: true
+    order:
+      - About Us.md
+      - New Developments.md
+      - privacy.md
+      - terms-of-use.md

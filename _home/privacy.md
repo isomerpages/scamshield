@@ -2,6 +2,7 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
+
 #### ScamShield Privacy Safeguards
 ScamShield is an application that works actively in the background to facilitate the detection, reporting and blocking of potential scam calls, as well as potential scam messages from unknown numbers not in your contact list. 
 

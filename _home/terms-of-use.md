@@ -2,6 +2,7 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
+
 #### General
 1. Welcome to ScamShield provided by the National Crime Prevention Council ("NCPC") and the Government Techology Agency of Singapore ("GovTech"). These Terms of Use ("Terms") govern your use of ScamShield. Please read these Terms carefully as any non-compliance may result in civil or criminal liability.
 

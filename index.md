@@ -10,7 +10,7 @@ sections:
       title: ScamShield
       subtitle: Protection from unsolicited messages and calls
       background: /images/ScamshieldBanner.png
-      button: Set up Scamshield
+      button: Set up ScamShield
       url: /setup-guide/permalink/
       key_highlights:
         - title: FAQ
@@ -19,7 +19,7 @@ sections:
         - title: Report a scam
           description: Help us make ScamShield better
           url: /report/
-        - title: For the latest scam information
+        - title: Get the latest scam information
           description: Visit ScamAlert.sg
           url: https://www.scamalert.sg
   - infopic:
