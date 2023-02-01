@@ -9,7 +9,7 @@ links:
   - title: Setup Guide
     collection: setup-guide
   - title: Download
-    url: /permalink/
+    url: /
     sublinks:
       - title: iOS app
         url: https://apps.apple.com/sg/app/scamshield/id1497144087
