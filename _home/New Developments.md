@@ -9,3 +9,4 @@ To enable easy reporting and checking of messages, ScamShield is developing a bo
 
 The ScamShield bot is expected to be launched later this year.
 
+![ScamShield Bot](/images/SS_WA_Screens.png)
