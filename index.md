@@ -49,7 +49,7 @@ sections:
         WhatsApp, Wechat, IMO, Viber, etc. You can forward the messages via
         ScamShield’s in-app reporting function.
       button: View setup guide
-      url: /setup-guide/permalink/
+      url: /setup-guide
       image: /images/ReportMessage.png
       alt: Report scam messages
   - infobar:
