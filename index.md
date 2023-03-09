@@ -11,7 +11,7 @@ sections:
       subtitle: Protection from unsolicited messages and calls
       background: /images/ScamshieldBanner.png
       button: Set up ScamShield
-      url: /setup-guide/permalink/
+      url: /setup-guide/
       key_highlights:
         - title: FAQ
           description: Have a question?
