@@ -39,7 +39,7 @@ sections:
         scams, and filter them (iOS) or notify users (Android). These are also
         sent to NCPC and SPF.
       button: View setup guide
-      url: /setup-guide/permalink/
+      url: /setup-guide
       image: /images/FilterSMS.png
       alt: Filter scam SMSes
   - infopic:
