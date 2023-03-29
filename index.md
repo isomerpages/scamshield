@@ -23,6 +23,16 @@ sections:
           description: Visit ScamAlert.sg
           url: https://www.scamalert.sg
   - infopic:
+      title: "Give Input for New Products "
+      subtitle: Survey
+      description: "The ScamShield team is building a new product to improve scam
+        awareness and we need your input to help us make it great. Complete our
+        survey below "
+      button: Feedback on New Products
+      url: https://go.gov.sg/scam-awareness
+      image: /images/Survey for new products.png
+      alt: Image alt text
+  - infopic:
       title: Block scam calls
       subtitle: Feature
       description: ScamShield checks incoming calls against a list maintained by the
