@@ -18,7 +18,7 @@ sections:
           url: /faq/
         - title: Report a scam
           description: Help us make ScamShield better
-          url: /report/
+          url: https://form.gov.sg/63982e109841390011a59121
         - title: Get the latest scam information
           description: Visit ScamAlert.sg
           url: https://www.scamalert.sg
