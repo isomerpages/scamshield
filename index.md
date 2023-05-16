@@ -67,5 +67,10 @@ sections:
       description: Read our FAQ to find out more
       button: Learn more
       url: /faq/
-notification: ""
+notification: "Beware: Scammers have been sending app download files (ending
+  with .apk) pretending to be the ScamShield app. Do not download these files,
+  as they can install viruses on your device, and give scammers access to your
+  personal information. Download the official ScamShield app only from the
+  Google Play Store or Apple App Store, and tell your friends and loved ones
+  too!"
 ---
