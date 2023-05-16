@@ -1,8 +1,8 @@
 ---
 layout: homepage
 title: ScamShield | Open Government Products
-description: ScamShield is an application that protects you against unsolicited
-  messages and calls from unknown contacts or known scammers.
+description: ScamShield protects you against unsolicited messages and calls from
+  unknown contacts or known scammers.
 image: /images/scamshield-logo-horizontal-blue.png
 permalink: /
 sections:
@@ -23,11 +23,11 @@ sections:
           description: Visit ScamAlert.sg
           url: https://www.scamalert.sg
   - infopic:
-      title: "Give Input for New Products "
+      title: Give Input for New Products
       subtitle: Survey
-      description: "The ScamShield team is building a new product to improve scam
+      description: The ScamShield team is building a new product to improve scam
         awareness and we need your input to help us make it great. Complete our
-        survey below "
+        survey below
       button: Feedback on New Products
       url: https://go.gov.sg/scam-awareness
       image: /images/Survey for new products.png
