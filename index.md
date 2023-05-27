@@ -67,10 +67,10 @@ sections:
       description: Read our FAQ to find out more
       button: Learn more
       url: /faq/
-notification: "Beware: Scammers have been sending fake versions of
-  the   ScamShield app (ending with .apk) for unsuspecting victims to download.
-  Do not   download these files, as they can install viruses on your device, and
-  give   scammers access to your personal information. Download the official
-  ScamShield   app only from the Google Play Store or Apple App Store, and tell
-  your friends   and loved ones too!"
+notification: "Beware: Scammers have been sending fake versions of the
+  ScamShield app (ending with .apk) for unsuspecting victims to download. Do not
+  download these files, as they can install viruses on your device, and give
+  scammers access to your personal information. Download the official ScamShield
+  app only from the Google Play Store or Apple App Store, and tell your friends
+  and loved ones too!"
 ---
