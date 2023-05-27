@@ -67,8 +67,10 @@ sections:
       description: Read our FAQ to find out more
       button: Learn more
       url: /faq/
-notification: Dear users, take note that the “Report-a-Scam” form will be
-  unavailable from 10:00 pm on 27 May 2023 until 6:00 am on 28 May 2023. You may
-  continue to report scams through the ScamShield App. Any inconvenience caused
-  is regretted.
+notification: "Beware: Scammers have been sending fake versions of the
+  ScamShield app (ending with .apk) for unsuspecting victims to download. Do not
+  download these files, as they can install viruses on your device, and give
+  scammers access to your personal information. Download the official ScamShield
+  app only from the Google Play Store or Apple App Store, and tell your friends
+  and loved ones too!"
 ---
