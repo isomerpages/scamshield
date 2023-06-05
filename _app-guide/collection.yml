@@ -1,5 +1,5 @@
 collections:
-  setup-guide:
+  app-guide:
     output: true
     order:
       - Set up ScamShield Android.md
