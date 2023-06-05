@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - Android app guide.md
-      - Set up ScamShield iOS.md
+      - iOS app guide.md
