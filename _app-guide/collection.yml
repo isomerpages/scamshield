@@ -2,5 +2,5 @@ collections:
   app-guide:
     output: true
     order:
-      - Android app guide.md
+      - Android.md
       - iOS app guide.md
