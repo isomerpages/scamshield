@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - Android.md
-      - iOS app guide.md
+      - iOS.md
