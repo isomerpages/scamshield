@@ -8,4 +8,4 @@ image: ""
 ---
 ![Weekly Bulletin Issue 11 - 01](/images/SPEO%20Weekly%20Bulletin/weekly%20scams%20bulletin%20issue%2011%20(finalised%20copy)_001.png)
 ![Weekly Bulletin Issue 11 - 02](/images/SPEO%20Weekly%20Bulletin/weekly%20scams%20bulletin%20issue%2011%20(finalised%20copy)_002.png)
-[Weekly Bulletin Issue 11 - 03](/images/SPEO%20Weekly%20Bulletin/weekly%20scams%20bulletin%20issue%2011%20(finalised%20copy)_003.png)
+![Weekly Bulletin Issue 12 - How to protect yourself](/images/SPEO%20Weekly%20Bulletin/weekly%20scams%20bulletin%20issue%2011%20(finalised%20copy)_003.png)
