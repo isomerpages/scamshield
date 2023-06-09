@@ -28,11 +28,6 @@ sections:
       button: VIEW OR ASK QUESTIONS ON ASK.GOV
       url: https://go.ask.gov.sg/scamshield/
       image: /images/ss-askgov.png
-  - infobar:
-      title: Have a question?
-      description: Read our FAQ to find out more
-      button: Learn more
-      url: /faq/
   - infopic:
       title: Give Input for New Products
       subtitle: Survey
@@ -73,6 +68,11 @@ sections:
       url: /setup-guide/
       image: /images/ReportMessage.png
       alt: Report scam messages
+  - infobar:
+      title: Have a question?
+      description: Read our FAQ to find out more
+      button: Learn more
+      url: /faq/
 notification: "Beware: Scammers have been sending fake versions of the
   ScamShield app (ending with .apk) for unsuspecting victims to download. Do not
   download these files, as they can install viruses on your device, and give
