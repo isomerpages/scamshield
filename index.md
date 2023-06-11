@@ -28,6 +28,7 @@ sections:
       button: VIEW OR ASK QUESTIONS ON ASK.GOV
       url: https://go.ask.gov.sg/scamshield/
       image: /images/ss-askgov.png
+      alt: AskGov ScamShield FAQ
   - infopic:
       title: Give Input for New Products
       subtitle: Survey
