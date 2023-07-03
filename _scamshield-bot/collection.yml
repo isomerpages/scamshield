@@ -1,4 +1,5 @@
 collections:
   scamshield-bot:
     output: true
-    order: []
+    order:
+      - ScamShield Bot.md
