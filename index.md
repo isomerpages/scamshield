@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: FAQ
           description: Have a question?
-          url: /faq/
+          url: https://ask.gov.sg/scamshield/
         - title: Report a scam
           description: Help us make ScamShield better
           url: https://form.gov.sg/63982e109841390011a59121
