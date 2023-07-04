@@ -1,0 +1,6 @@
+collections:
+  app-guide:
+    output: true
+    order:
+      - Android.md
+      - iOS.md

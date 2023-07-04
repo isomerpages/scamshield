@@ -3,11 +3,11 @@ links:
   - title: About Us
     url: /about-us/
   - title: FAQ
-    url: /faq/
+    url: https://go.ask.gov.sg/scamshield/
   - title: Report a Scam
     url: https://form.gov.sg/63982e109841390011a59121
-  - title: Setup Guide
-    collection: setup-guide
+  - title: App Guide
+    collection: app-guide
   - title: Download
     url: /
     sublinks:
@@ -15,3 +15,5 @@ links:
         url: https://apps.apple.com/sg/app/scamshield/id1497144087
       - title: Android App
         url: https://play.google.com/store/apps/details?id=sg.gov.scamshield
+  - title: Resources
+    resource_room: true

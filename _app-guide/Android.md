@@ -1,20 +1,15 @@
 ---
-title: Set up ScamShield Android
+title: Android
 permalink: /setup-guide/
 description: ""
 ---
-
-
-
-
-
 ### Set up ScamShield Android to block scam calls and detect scam SMSes
 ---
 
 #### Download ScamShield Android
 Download ScamShield from the Google Play Store by clicking on the button below, or searching for ScamShield on the Play Store.
 
-<a href="https://play.google.com/store/apps/details?id=sg.gov.scamshield" alt="Google Play Store link"><img src="/images/GooglePlayStore.png" style="width:160px;float:left" /></a><br> 
+<a href="https://play.google.com/store/apps/details?id=sg.gov.scamshield" alt="Google Play Store link"><img src="/images/GooglePlayStore.png" style="width:160px;float:left"></a><br> 
 
 You can also download ScamShield by scanning this QR code:
 <img src="/images/scamshield-android.png" style="width:40%">
@@ -23,7 +18,7 @@ You can also download ScamShield by scanning this QR code:
 #### Enable Access
 Allow the necessary permissions ScamShield asks for; these are required for the app to work correctly:
 
-* Set ScamShield as the default caller ID & spam app
+* Set ScamShield as the default caller ID &amp; spam app
 * Allow access to your contacts
 * Allow access to make and manage phone calls
 * Allow access to send and view SMS messages

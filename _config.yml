@@ -45,7 +45,7 @@ remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 description: ScamShield protects you against unsolicited messages and calls from
   unknown contacts or known scammers.
-resources_name: ""
+resources_name: resource-room
 staging: https://scamshield-staging.netlify.app/
 prod: https://scamshield-prod.netlify.app/
 plugins:

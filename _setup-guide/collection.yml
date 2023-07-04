@@ -1,6 +1,0 @@
-collections:
-  setup-guide:
-    output: true
-    order:
-      - Set up ScamShield Android.md
-      - Set up ScamShield iOS.md
