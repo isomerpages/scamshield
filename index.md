@@ -21,7 +21,7 @@ sections:
         - title: Get the latest scam information
           description: Visit ScamAlert.sg
           url: https://www.scamalert.sg
-      background: /images/scamshield hero banner.png
+      background: /images/hero banner smaller element.png
   - infopic:
       title: ScamShield Bot
       subtitle: New Product Soft Launch
@@ -29,7 +29,6 @@ sections:
       button: Learn more about the Bot
       url: /about-bot
       alt: ScamShield Bot Check Result
-      image: /images/infopic isomer - bot.png
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have a Question?
@@ -71,5 +70,5 @@ notification: "Beware: Only download the official ScamShield App from the Google
   Play Store or Apple App Store! Scammers have been sending fake versions of the
   ScamShield app (ending with .apk) to unsuspecting victims which gives scammers
   access to your personal information. Please do not download any apps outside
-  of the official App or Play store."
+  of the official Apple or Google App stores."
 ---
