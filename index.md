@@ -28,7 +28,8 @@ sections:
       description: Check and report scams on WhatsApp with the ScamShield Bot
       button: Learn more about the Bot
       url: /about-bot
-      alt: ScamShield Bot Check Result
+      alt: "Bot checking "
+      image: /images/bot checking infopic.png
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have a Question?
