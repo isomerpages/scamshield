@@ -21,6 +21,7 @@ sections:
         - title: Get the latest scam information
           description: Visit ScamAlert.sg
           url: https://www.scamalert.sg
+      background: /images/scamshield hero banner.png
   - infopic:
       title: ScamShield Bot
       subtitle: New Product Soft Launch
