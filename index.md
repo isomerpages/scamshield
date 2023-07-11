@@ -28,6 +28,7 @@ sections:
       button: Learn more about the Bot
       url: /about-bot
       alt: ScamShield Bot Check Result
+      image: /images/infopic isomer - bot.png
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have a Question?
