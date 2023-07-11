@@ -7,8 +7,8 @@ image: /images/scamshield-logo-horizontal-blue.png
 permalink: /
 sections:
   - hero:
-      title: ScamShield
-      subtitle: Spot scams using the ScamShield Bot on WhatsApp
+      title: ScamShield Bot
+      subtitle: Spot scam using the ScamShield Bot on WhatsApp
       button: Add the ScamShield Bot
       url: https://go.gov.sg/scamshield-bot
       key_highlights:
@@ -67,10 +67,9 @@ sections:
       url: /setup-guide/
       image: /images/ReportMessage.png
       alt: Report scam messages
-notification: "Beware: Scammers have been sending fake versions of the
-  ScamShield app (ending with .apk) for unsuspecting victims to download. Do not
-  download these files, as they can install viruses on your device, and give
-  scammers access to your personal information. Download the official ScamShield
-  app only from the Google Play Store or Apple App Store, and tell your friends
-  and loved ones too!"
+notification: "Beware: Only download the official ScamShield App from the Google
+  Play Store or Apple App Store! Scammers have been sending fake versions of the
+  ScamShield app (ending with .apk) to unsuspecting victims which gives scammers
+  access to your personal information. Please do not download any apps outside
+  of the official App or Play store."
 ---
