@@ -7,7 +7,8 @@ image: /images/bot checking infopic.png
 ## Check and Report scams via the Bot on WhatsApp
 # 
 > #### Wondering whether you received a scam message or call? Now you can check or report a scam directly to the Singapore Police Force via the official ScamShield Bot on WhatsApp at https://go.gov.sg/scamshield-bot
-   
+
+##### The ScamShield Bot is the latest scam-fighting product developed by Open Government Products in collaboration with the Singapore Police Force and the National Crime Prevention Council.
 
 #### 1. What is the ScamShield bot?
 
