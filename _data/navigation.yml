@@ -11,6 +11,8 @@ links:
         url: /set-up-bot
       - title: Add the Bot
         url: https://go.gov.sg/scamshield-bot
+  - title: Report a Scam
+    url: https://go.gov.sg/scamshield-bot
   - title: App Guide
     collection: app-guide
   - title: Download App
@@ -24,5 +26,3 @@ links:
     url: https://go.ask.gov.sg/scamshield/
   - title: Resources
     resource_room: true
-  - title: Report a Scam
-    url: https://go.gov.sg/scamshield-bot
