@@ -51,5 +51,5 @@ For Message reports:
 When you report a scam:
 
 *   Your reports are sent to the Singapore Police Force for review.
-*   When the SPF blocks suspicious numbers, the ScamShield app will then detect scam SMSes from these numbers, and block their calls.
+*   When the SPF blocks suspicious numbers, the ScamShield App will then detect scam SMSes from these numbers, and block their calls.
 *   Your report also help others spot scams whenever they check for a scam on the Bot.
