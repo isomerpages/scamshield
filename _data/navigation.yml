@@ -3,7 +3,7 @@ links:
   - title: About Us
     url: /about-us/
   - title: Bot Guide
-    url: /bot-guide
+    url: /about-bot
     sublinks:
       - title: About Bot
         url: /about-bot
@@ -11,6 +11,9 @@ links:
         url: /set-up-bot
   - title: App Guide
     collection: app-guide
+  - title: Set up
+    url: /set-up
+    sublinks: []
   - title: Set up
     url: /set-up
     sublinks:
