@@ -16,12 +16,11 @@ The ScamShield Bot enables users to conveniently report scams received from acro
 
 #### 2. Why use the ScamShield Bot?
 
-When you receive a suspicious call or message, send it to the ScamShield Bot directly on WhatsApp. The Bot can help you:
+Use the Bot to find out if something is a scam so that you can protect yourself and loved ones from suspicious messages, websites/ links, and other contact IDs. 
 
-*   Check if it’s a scam
-*   Report the scam
+The Bot is the authoritative way to check for scams, as reports received through ScamShield are reviewed by the Singapore Police Force. 
 
-Reports on the Bot are forwarded to the Singapore Police Force for review. Thus, by reporting to the ScamShield Bot, you’ll be helping to protect the broader community in Singapore.
+Thus, by reporting to the ScamShield Bot, you’ll be helping to protect the broader community in Singapore.
 
 #### 3. How to check a suspicious message or call to the Bot?
 
