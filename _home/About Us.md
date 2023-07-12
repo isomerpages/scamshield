@@ -31,9 +31,13 @@ The ScamShield Bot has 2 core features: 
 
 The ScamShield defense system works better when more scam reports with sufficient information are submitted. Whether through the Bot or the Apps, all reports received through ScamShield are reviewed by the Singapore Police Force (SPF). Hence, ScamShield is the authoritative way to check whether something is a scam.
 
+**How the Bot works:**
+
 When checking whether a message or call is scam, the ScamShield Bot will be able to tell whether the info being checked has previously been reported, whether any of the contacts have been confirmed as scam by the SPF, or whether the machine learning classifier detects any suspicious web links or messages that have previously been used by scammers.
 
-The contacts determined to be scam by the SPF will then be will be blacklisted, and SMSes or calls from these numbers will be flagged or blocked on devices with the official ScamShield App. Thus, by reporting to the ScamShield Bot or the Apps, you’ll be helping to protect the broader community in Singapore.
+The contacts determined to be scam by the SPF will then be blacklisted, and SMSes or calls from these numbers will be flagged or blocked on devices with the official ScamShield App. Thus, by reporting to the ScamShield Bot or the Apps, you’ll be helping to protect the broader community in Singapore from similar scams.
+
+**How the Apps work:**
 
 The ScamShield App detects incoming scam calls and text messages. Incoming calls from unknown numbers are checked against a database maintained by the Singapore Police Force – if ScamShield determines the number has been used for scams, it will be blocked.
 
