@@ -7,8 +7,8 @@ links:
     sublinks:
       - title: About Bot
         url: /about-bot
-      - title: Set Up Bot Guide
-        url: /permalink
+      - title: How to setup bot
+        url: /set-up-bot
   - title: App Guide
     collection: app-guide
   - title: Set up
