@@ -13,7 +13,9 @@ links:
     collection: app-guide
   - title: Set up
     url: /set-up
-    sublinks: []
+    sublinks:
+      - title: ScamShield Bot
+        url: https://go.gov.sg/scamshield-bot
   - title: Set up
     url: /set-up
     sublinks:
