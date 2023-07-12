@@ -45,4 +45,6 @@ Detected and reported scam messages and calls are sent to SPF for review. This k
 
 ### Your privacy is our priority
 
-We value your privacy and protect your data with utmost care. The ScamShield Bot follows strict security measures to keep your information safe and confidential. We cannot read your other chats on WhatsApp.
+We value your privacy and protect your data with utmost care. The ScamShield Bot and Apps follow strict security measures to keep your information safe and confidential. The Bot cannot read your other chats on WhatsApp, and the Apps cannot read any SMSes coming from saved contacts.
+
+When you submit a report to the ScamShield Bot or the Apps, the SPF will only be able to see the information you have submitted.
