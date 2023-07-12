@@ -27,7 +27,7 @@ The ScamShield Bot has 2 core features: 
 
 
     
-### How does ScamShield work
+### How ScamShield works
 
 The ScamShield defense system works better when more scam reports with sufficient information are submitted. Whether through the Bot or the Apps, all reports received through ScamShield are reviewed by the Singapore Police Force (SPF). Hence, ScamShield is the authoritative way to check whether something is a scam.
 
@@ -44,8 +44,6 @@ The ScamShield App detects incoming scam calls and text messages. Incoming calls
 For incoming SMSes from anyone who isn't a saved contact, ScamShield will determine if the SMS is a scam using an on-device algorithm. For the iOS version, it filters these scam SMSes into the Junk folder. For Android, a notification is sent to alert users that they may have received a scam message.
 
 Detected and reported scam messages and calls are sent to SPF for review. This keeps the App updated and will help protect others from similar scam messages and calls.
-
-**ScamShield does not collect any personal information from the user.**
 
 ### Your privacy is our priority
 
