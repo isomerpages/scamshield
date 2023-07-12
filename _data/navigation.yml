@@ -9,18 +9,13 @@ links:
         url: /about-bot
       - title: How to setup bot
         url: /set-up-bot
+      - title: Add the Bot
+        url: https://go.gov.sg/scamshield-bot
   - title: App Guide
     collection: app-guide
-  - title: Set up
-    url: /set-up
+  - title: Download App
+    url: /app-guide
     sublinks:
-      - title: ScamShield Bot
-        url: https://go.gov.sg/scamshield-bot
-  - title: Set up
-    url: /set-up
-    sublinks:
-      - title: ScamShield Bot
-        url: https://go.gov.sg/scamshield-bot
       - title: iOS App
         url: https://apps.apple.com/sg/app/scamshield/id1497144087
       - title: Android App
