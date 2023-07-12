@@ -26,7 +26,7 @@ Reports on the Bot are forwarded to the Singapore Police Force for review. Thus,
 
 To check whether a messages is a scam or not, send the scammer's message or contact info to the Bot via the following methods:
 
-1.  Copy its text into the ScamShield Bot
+1.  Copy the text 
 2.  Send a screenshot of the message
 3.  Forward a message from another WhatsApp chat
 
@@ -39,8 +39,8 @@ In 3 steps, a user can report a suspected message or call directly to the Singap
 1. Forward or send a copy or screenshot of the message (received from any platform)
 2. Send the scammer’s contact info
 3. Indicate where the message was received.
-    
-
+ 
+ For call report, provide the caller's number or ID, a description of the call, and where the call was received.
 
 #### 5. What happens after you submit a report to the ScamShield Bot?
 
