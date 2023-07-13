@@ -18,6 +18,8 @@ links:
   - title: App Guide
     url: /app-guide
     sublinks:
+      - title: App Guide
+        url: /app-guide
       - title: iOS App
         url: https://apps.apple.com/sg/app/scamshield/id1497144087
       - title: Android App
