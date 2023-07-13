@@ -8,7 +8,7 @@ permalink: /
 sections:
   - hero:
       title: ScamShield Bot
-      subtitle: Spot scam using the ScamShield Bot on WhatsApp
+      subtitle: Spot scams using the ScamShield Bot on WhatsApp
       button: Add the ScamShield Bot
       url: https://go.gov.sg/scamshield-bot
       key_highlights:
@@ -24,11 +24,11 @@ sections:
       background: /images/hero banner smaller element.png
   - infopic:
       title: ScamShield Bot
-      subtitle: New Product Soft Launch
+      subtitle: New Product Available
       description: Check and report scams on WhatsApp with the ScamShield Bot
       button: Learn more about the Bot
       url: /about-bot
-      alt: "Bot checking "
+      alt: Bot checking
       image: /images/bot checking infopic.png
   - infopic:
       title: Get official answers from our Q&A Platform
