@@ -24,7 +24,7 @@ sections:
       background: /images/hero banner smaller element.png
   - infopic:
       title: ScamShield Bot
-      subtitle: New Product Available
+      subtitle: New Product Launch
       description: Check and report scams on WhatsApp with the ScamShield Bot
       button: Learn more about the Bot
       url: /about-bot
