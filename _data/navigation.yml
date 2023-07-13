@@ -12,7 +12,7 @@ links:
       - title: Add the Bot
         url: https://go.gov.sg/scamshield-bot
   - title: App Guide
-    url: /app-guide
+    url: /android-guide/
     sublinks:
       - title: Android App Guide
         url: /android-guide/
