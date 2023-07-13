@@ -3,9 +3,9 @@ title: New Developments
 permalink: /about-us/new-developments/
 description: New Developments
 ---
-### Soft Launch of the ScamShield Bot
+### The ScamShield Bot is available on WhatsApp
 
-**We are happy to announce that the ScamShield Bot is now available on WhatsApp!**
+**The ScamShield Bot is now open to the public for testing!**
 
 The ScamShield Bot was developed by Open Government Products in collaboration with the Singapore Police Force and NCPC.
 
