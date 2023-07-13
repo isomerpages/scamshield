@@ -18,12 +18,14 @@ links:
   - title: App Guide
     url: /app-guide
     sublinks:
-      - title: App Guide
+      - title: Anrdoid App Guide
         url: /android-guide/
       - title: Download iOS App
         url: https://apps.apple.com/sg/app/scamshield/id1497144087
       - title: Download Android App
         url: https://play.google.com/store/apps/details?id=sg.gov.scamshield
+      - title: iOS App Guide
+        url: /ios-guide/
   - title: FAQ
     url: https://go.ask.gov.sg/scamshield/
   - title: Resources
