@@ -15,7 +15,7 @@ links:
     url: https://go.gov.sg/scamshield-bot
   - title: App Guide
     collection: app-guide
-  - title: Download App
+  - title: App Guide
     url: /app-guide
     sublinks:
       - title: iOS App
