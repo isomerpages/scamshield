@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - About Us.md
-      - New Developments.md
+      - New Product Launch.md
       - privacy.md
       - terms-of-use.md
