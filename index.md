@@ -67,8 +67,5 @@ sections:
       url: /setup-guide/
       image: /images/ReportMessage.png
       alt: Report scam messages
-notification: "Beware: Scammers have been sending fake versions of the
-  ScamShield app (ending with .apk). These fake apps give scammers access to
-  your personal information. Please do not download any apps outside of the
-  official Apple or Google App stores."
+notification: ""
 ---
