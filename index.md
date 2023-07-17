@@ -16,8 +16,8 @@ sections:
           description: Have a question?
           url: https://ask.gov.sg/scamshield/
         - title: Report a scam
-          description: Send reports to the Bot
-          url: https://go.gov.sg/scamshield-bot
+          description: Submit scam reports
+          url: https://form.gov.sg/63982e109841390011a59121
         - title: Get the latest scam information
           description: Visit ScamAlert.sg
           url: https://www.scamalert.sg
