@@ -2,6 +2,6 @@ collections:
   bot-guide:
     output: true
     order:
-      - Bot FAQs.md
       - About the ScamShield Bot.md
       - How to Setup the Bot.md
+      - Bot FAQs.md
