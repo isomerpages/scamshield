@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - About Us.md
-      - New Product Launch.md
+      - ScamShield Bot Launch.md
       - privacy.md
       - terms-of-use.md
