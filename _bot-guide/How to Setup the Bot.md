@@ -9,8 +9,11 @@ image: /images/bot checking infopic.png
 
 **Step 1:**
 
-*   Scan the QR code, or visit the link here: [go.gov.sg/scamshield-bot](http://go.gov.sg/scamshield-bot)
-![Bot QR Code](/images/bot%20qr%20code%20small.jpeg)*Remember to only click on trustworthy links and QR codes. The [go.gov.sg](http://go.gov.sg) link and go.gov.sg QR code is the trusted government domain.
+*   Scan the QR code, or visit the link here:
+
+<img style="width:75%" alt="<qr code that will lead to scamshield bot>" src="/images/qrcode%20scamshield.png">
+
+*Remember to only click on trustworthy links and QR codes. The [go.gov.sg](http://go.gov.sg) link and go.gov.sg QR code is the trusted government domain.
 
 
 
