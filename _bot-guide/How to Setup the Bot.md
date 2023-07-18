@@ -31,4 +31,6 @@ image: /images/bot checking infopic.png
 *   Add ScamShield as a contact on WhatsApp
 *   Start checking or reporting scams 
 *   You can use the ScamShield bot at any time to check and report scams that you’ve received, regardless of where you received the message or call.
-![Bot Start Chat](/images/ss%20bot%20opening%20dialogue.png)
+
+
+<img style="width:50%" alt="<Starting chat with the ScamShield bot>" src="/images/ss%20bot%20opening%20dialogue.png">
