@@ -10,11 +10,11 @@ image: /images/bot checking infopic.png
 
 ##### The ScamShield Bot is the latest scam-fighting product developed by Open Government Products in collaboration with the Singapore Police Force and the National Crime Prevention Council.
 
-#### 1. What is the ScamShield bot?
+#### What is the ScamShield bot?
 
 The ScamShield Bot enables users to conveniently report scams received from across multiple platforms directly to the Singapore Police Force, and to let users easily check whether a message or call is a scam, all within WhatsApp.
 
-#### 2. Why use the ScamShield Bot?
+#### Why use the ScamShield Bot?
 
 Use the Bot to find out if something is a scam so that you can protect yourself and loved ones from suspicious messages, websites/ links, and other contact IDs. 
 
@@ -22,7 +22,7 @@ The Bot is the authoritative way to check for scams, as reports received through
 
 Thus, by reporting to the ScamShield Bot, you’ll be helping to protect the broader community in Singapore from the same scams.
 
-#### 3. How to check a suspicious message or call to the Bot?
+#### How to check a suspicious message or call to the Bot?
 
 To check whether a message is a scam or not, send the scammer's message or contact info to the Bot via the following methods:
 
@@ -32,7 +32,7 @@ To check whether a message is a scam or not, send the scammer's message or conta
 
 You can also check suspicious calls by copying the caller’s phone number to the Bot.
 
-#### 4. How to report a suspicious message or call to the Bot?
+#### How to report a suspicious message or call to the Bot?
 
 In 3 steps, you can report a suspected message or call directly to the Singapore Police Force. 
 
@@ -46,7 +46,7 @@ For Message reports:
  2. Write a description of the call
  3. Indicate where the call was received
 
-#### 5. What happens after you submit a report to the ScamShield Bot?
+#### What happens after you submit a report to the ScamShield Bot?
 
 When you report a scam:
 
