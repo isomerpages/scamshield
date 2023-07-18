@@ -2,7 +2,7 @@ logo: /images/scamshield-logo-horizontal-blue.png
 links:
   - title: About Us
     collection: home
-  - title: Bot Guide
+  - title: ScamShield Bot
     url: /about-bot
     sublinks:
       - title: About Bot
@@ -13,7 +13,7 @@ links:
         url: /bot-faqs
       - title: Add the Bot
         url: https://go.gov.sg/scamshield-bot
-  - title: App Guide
+  - title: ScamShield App
     url: /android-guide/
     sublinks:
       - title: Android App Guide
