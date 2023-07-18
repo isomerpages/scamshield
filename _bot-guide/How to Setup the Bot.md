@@ -16,8 +16,6 @@ image: /images/bot checking infopic.png
 
 
 
-
-
 **Step 2**
 
 *   Tap on "Continue to chat" to access ScamShield - you will be redirected to the ScamShield Bot on WhatsApp. If you don't have WhatsApp, you can download the official WhatsApp platform first.
