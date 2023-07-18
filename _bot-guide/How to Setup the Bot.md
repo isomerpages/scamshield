@@ -11,7 +11,7 @@ image: /images/bot checking infopic.png
 
 *   Scan the QR code, or visit the link here:
 
-<a href="https://go.gov.sg/scamshield-bot"><img style="width:50%" alt="<qr code that will lead to scamshield bot>" src="/images/qrcode%20scamshield.png"></a>
+<a href="https://go.gov.sg/scamshield-bot">`<img style="width:50%" alt="<qr code that will lead to scamshield bot>" src="/images/qrcode%20scamshield.png">`</a>
 
 *Remember to only click on trustworthy links and QR codes. The [go.gov.sg](http://go.gov.sg) link and go.gov.sg QR code is the trusted government domain.
 
@@ -22,7 +22,9 @@ image: /images/bot checking infopic.png
 **Step 2**
 
 *   Tap on "Continue to chat" to access ScamShield - you will be redirected to the ScamShield Bot on WhatsApp. If you don't have WhatsApp, you can download the official WhatsApp platform first.
- ![Redirect to Bot on WhatsApp](/images/redirection%20to%20bot.png)
+
+<img style="width:50%" alt="<Redirect to Bot on WhatsApp>" src="/images/redirection%20to%20bot.png">
+
  
  **Step 3**
 
