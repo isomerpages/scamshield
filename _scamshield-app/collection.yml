@@ -1,5 +1,5 @@
 collections:
-  app-guide:
+  scamshield-app:
     output: true
     order:
       - Android Guide.md
