@@ -58,7 +58,7 @@ When you report a scam:
 
 **Besides checking and reporting on the bot, here are some of the things you can do or experience**:
 
-<img style="width:75%" alt="<conversation with bot telling user how many people have reported this number>" src="/images/crowdsourced%20checking.png">
+<img style="width:100%" alt="<conversation with bot telling user how many people have reported this number>" src="/images/crowdsourced%20checking.png">
 
 *   **Crowdsourced Information**: When checking whether something is a scam, for messages or calls that have previously been reported, the ScamShield Bot can tell you how many others have also reported a similar message or contact. 
 
