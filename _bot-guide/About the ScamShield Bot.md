@@ -68,8 +68,8 @@ When you report a scam:
 *   **Machine Learning Classifier**: For certain checked messages, the ScamShield Bot will use a machine learning classifier to determine whether the message content has been used by scammers before or whether the message contains URL links that likely lead to a scam website.
 
 
-<img style="width:75%" alt="<conversation with bot telling user how many people have reported this number>" src="/images/crowdsourced%20checking.png">
-
+<img style="width:75%" alt="<user forwards a message to the bot>" src="/images/forwarding.png">
+![x]()
 *   **Forward messages**: For scam messages received on WhatsApp, you can simply forward the suspicious message from another chat in WhatsApp directly to the ScamShield Bot, and the forwarded message can be immediately checked or reported to the SPF.
 
 
