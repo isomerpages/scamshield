@@ -69,7 +69,7 @@ When you report a scam:
 
 
 <img style="width:75%" alt="<user forwards a message to the bot>" src="/images/forwarding.png">
-![x]()
+
 *   **Forward messages**: For scam messages received on WhatsApp, you can simply forward the suspicious message from another chat in WhatsApp directly to the ScamShield Bot, and the forwarded message can be immediately checked or reported to the SPF.
 
 
