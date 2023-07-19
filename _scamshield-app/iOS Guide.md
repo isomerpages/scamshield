@@ -1,6 +1,6 @@
 ---
-title: iOS
-permalink: /how-to-setup-scamshield/
+title: iOS Guide
+permalink: /ios-guide/
 description: ""
 ---
 ### Set up Scamshield iOS to block scam calls and SMSes

@@ -1,6 +1,6 @@
 ---
 title: Weekly Scam Bulletin Issue 11
-permalink: /resource-room/anti-scam-resources/permalink/
+permalink: /resource-room/anti-scam-resources/weekly-scam-bulletin-issue-11/
 date: 2023-06-05
 layout: post
 description: Weekly Scam Bulletin Issue 11

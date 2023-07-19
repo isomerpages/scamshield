@@ -1,6 +1,6 @@
 ---
 title: Weekly Scam Bulletin Issue 4
-permalink: /resource-room/anti-scam-resources/permalink/
+permalink: /resource-room/anti-scam-resources/weekly-scam-bulletin-issue-4/
 date: 2023-04-14
 layout: post
 description: Weekly Scam Bulletin Issue 4

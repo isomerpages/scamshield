@@ -1,6 +1,6 @@
 ---
-title: Android
-permalink: /setup-guide/
+title: Android Guide
+permalink: /android-guide/
 description: ""
 ---
 ### Set up ScamShield Android to block scam calls and detect scam SMSes

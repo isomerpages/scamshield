@@ -1,6 +1,6 @@
 ---
 title: Weekly Scam Bulletin Issue 2
-permalink: /resource-room/anti-scam-resources/permalink/
+permalink: /resource-room/anti-scam-resources/weekly-scam-bulletin-issue-2/
 date: 2023-03-31
 layout: post
 description: Weekly Scam Bulletin Issue 2

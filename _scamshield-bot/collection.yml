@@ -1,0 +1,7 @@
+collections:
+  scamshield-bot:
+    output: true
+    order:
+      - About the ScamShield Bot.md
+      - How to Setup the Bot.md
+      - Bot FAQs.md
