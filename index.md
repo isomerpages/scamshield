@@ -31,41 +31,21 @@ sections:
       alt: Bot checking
       image: /images/bot checking infopic.png
   - infopic:
+      title: "ScamShield App "
+      subtitle: Detect scam SMSes & calls
+      description: The ScamShield App blocks incoming calls from scammers. In
+        addition, an on-device algorithm scans SMSes from unsaved contact to
+        detect scam SMSes.
+      button: View setup guide
+      url: /setup-guide/
+      alt: Block scam calls
+      image: /images/BlockScamCalls.png
+  - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: Have a Question?
       button: VIEW OR ASK QUESTIONS ON ASK.GOV
       url: https://go.ask.gov.sg/scamshield/
       image: /images/ss-askgov.png
       alt: AskGov ScamShield FAQ
-  - infopic:
-      title: Block scam calls
-      subtitle: Feature
-      description: ScamShield checks incoming calls against a list maintained by the
-        Singapore Police Force to see if the number has been used for illegal
-        purposes, and blocks it.
-      button: View setup guide
-      url: /setup-guide/
-      alt: Block scam calls
-      image: /images/BlockScamCalls.png
-  - infopic:
-      title: Detect scam SMSes
-      subtitle: Feature
-      description: An on-device algorithm scans SMSes from unknown numbers to detect
-        scams, and filter them (iOS) or notify users (Android). These are also
-        sent to NCPC and SPF.
-      button: View setup guide
-      url: /setup-guide/
-      image: /images/FilterSMS.png
-      alt: Filter scam SMSes
-  - infopic:
-      title: Report scam messages
-      subtitle: Feature
-      description: You can also report scam messages from other chat apps such as
-        WhatsApp, Wechat, IMO, Viber, etc. You can forward the messages via
-        ScamShield’s in-app reporting function.
-      button: View setup guide
-      url: /setup-guide/
-      image: /images/ReportMessage.png
-      alt: Report scam messages
 notification: ""
 ---
