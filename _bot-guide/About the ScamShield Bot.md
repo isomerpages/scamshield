@@ -6,7 +6,7 @@ image: /images/bot checking infopic.png
 ---
 ## Check and Report scams via the Bot on WhatsApp
 
-> Received a scam message or call? Now you can check or report a scam directly to the Singapore Police Force via the official ScamShield Bot on WhatsApp at [https://go.gov.sg/scamshield-bot](https://go.gov.sg/scamshield-bot)
+&gt; Received a scam message or call? Now you can check or report a scam directly to the Singapore Police Force via the official ScamShield Bot on WhatsApp at [https://go.gov.sg/scamshield-bot](https://go.gov.sg/scamshield-bot)
 
 ##### The ScamShield Bot is the latest scam-fighting product developed by Open Government Products in collaboration with the Singapore Police Force and the National Crime Prevention Council.
 
@@ -16,9 +16,9 @@ The ScamShield Bot enables users to conveniently report scams received from acro
 
 #### Why use the ScamShield Bot?
 
-Use the Bot to find out if something is a scam so that you can protect yourself and loved ones from suspicious messages, websites/ links, and other contact IDs. 
+Use the Bot to find out if something is a scam so that you can protect yourself and loved ones from suspicious messages, websites/ links, and other contact IDs.&nbsp;
 
-The Bot is the authoritative way to check for scams, as reports received through ScamShield are reviewed by the Singapore Police Force. 
+The Bot is the authoritative way to check for scams, as reports received through ScamShield are reviewed by the Singapore Police Force.&nbsp;
 
 Thus, by reporting to the ScamShield Bot, you’ll be helping to protect the broader community in Singapore from the same scams.
 
@@ -34,7 +34,7 @@ You can also check suspicious calls by copying the caller’s phone number to th
 
 #### How to report a suspicious message or call to the Bot?
 
-In 3 steps, you can report a suspected message or call directly to the Singapore Police Force. 
+In 3 steps, you can report a suspected message or call directly to the Singapore Police Force.&nbsp;
 
 For Message reports:
 1. Forward or send a copy or screenshot of the message (received from any platform)
@@ -57,6 +57,8 @@ When you report a scam:
 #### What features can I expect on the ScamShield Bot?
 
 **Besides checking and reporting on the bot, here are some of the things you can do or experience**:
+
+<img style="width:75%" alt="<conversation with bot telling user how many people have reported this number>" src="/images/crowdsourced%20checking.png">
 
 *   **Crowdsourced Information**: When checking whether something is a scam, for messages or calls that have previously been reported, the ScamShield Bot can tell you how many others have also reported a similar message or contact. 
 
