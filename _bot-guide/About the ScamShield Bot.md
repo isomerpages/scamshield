@@ -62,12 +62,27 @@ When you report a scam:
 
 *   **Crowdsourced Information**: When checking whether something is a scam, for messages or calls that have previously been reported, the ScamShield Bot can tell you how many others have also reported a similar message or contact. 
 
+
+<img style="width:75%" alt="<conversation with bot telling user how many people have reported this number>" src="/images/crowdsourced%20checking.png">
+
 *   **Machine Learning Classifier**: For certain checked messages, the ScamShield Bot will use a machine learning classifier to determine whether the message content has been used by scammers before or whether the message contains URL links that likely lead to a scam website.
+
+
+<img style="width:75%" alt="<conversation with bot telling user how many people have reported this number>" src="/images/crowdsourced%20checking.png">
 
 *   **Forward messages**: For scam messages received on WhatsApp, you can simply forward the suspicious message from another chat in WhatsApp directly to the ScamShield Bot, and the forwarded message can be immediately checked or reported to the SPF.
 
+
+<img style="width:75%" alt="<conversation with bot telling user how many people have reported this number>" src="/images/crowdsourced%20checking.png">
+
 *   **Send screenshots**: You can screenshot messages and send them to the ScamShield Bot. The Bot uses Optical Character Recognition (OCR) technology to convert the screenshot from a picture to a text. This provides you another way to send messages to the Bot beyond copying or forwarding methods.
 
+
+<img style="width:75%" alt="<conversation with bot telling user how many people have reported this number>" src="/images/crowdsourced%20checking.png">
+
 *   **See my stats**: You are able to see the impact that you've made by reporting on the ScamShield Bot. By clicking on ‘See my stats’ or typing out ‘stats’ to the Bot, you can find out how many reports you've submitted, how many times your reports have helped others check if something is a scam, and how many numbers/contacts/links etc. have been confirmed a scam as a result of your reports.
+
+
+<img style="width:75%" alt="<conversation with bot telling user how many people have reported this number>" src="/images/crowdsourced%20checking.png">
 
 *   **Getting help**: If you are ever confused or lost, simply type out ‘help’ into the bot and a list of commands will be displayed to help you navigate directly to different features.
