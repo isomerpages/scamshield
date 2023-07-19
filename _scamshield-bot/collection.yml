@@ -1,5 +1,5 @@
 collections:
-  bot-guide:
+  scamshield-bot:
     output: true
     order:
       - About the ScamShield Bot.md
