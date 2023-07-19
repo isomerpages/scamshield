@@ -24,7 +24,7 @@ Thus, by reporting to the ScamShield Bot, you’ll be helping to protect the bro
 
 #### How to check a suspicious message or call to the Bot?
 
-To check whether a message is a scam or not, send the scammer's message or contact info to the Bot via the following methods:
+To check whether a message is a scam, send the scammer's message or contact info to the Bot via the following methods:
 
 1.  Copy the text 
 2.  Send a screenshot of the message
