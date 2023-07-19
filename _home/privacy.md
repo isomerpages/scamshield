@@ -6,16 +6,16 @@ permalink: /privacy/
 
 Your privacy is our priority. We value your privacy and protect your data with utmost care. 
 
-###### ScamShield Bot:
+##### ScamShield Bot:
 Our WhatsApp Bot follows strict security measures to keep your information safe and confidential. We cannot read your other chats on WhatsApp.
 
 When you submit a report to the ScamShield Bot, the Singapore Police Force (SPF) will be able to see the information you have submitted through the ScamShield Bot and the time stamp at which the report was submitted. 
 
 Here is the data that is collected by the Bot and accessible to the SPF: 
-1. For Message Reports: A copy of the submitted message, the reported sender information, where the scam message was received.
-2. For Call Reports: The caller’s number or ID, the info submitted about the call, where the call was received.
+* For Message Reports: A copy of the submitted message, the reported sender information, where the scam message was received.
+* For Call Reports: The caller’s number or ID, the info submitted about the call, where the call was received.
 
-###### ScamShield App:
+##### ScamShield App:
 The ScamShield App is an application that works actively in the background to facilitate the detection, reporting and blocking of potential scam calls, as well as potential scam messages from unknown numbers not in your contact list. 
 
 The application does **not** have access to your contact list or any private data found therein. Further, ScamShield cannot access the contents of SMSes already in your inbox prior to installation of ScamShield, and it cannot access your call log. 
