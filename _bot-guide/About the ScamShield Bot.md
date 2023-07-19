@@ -56,7 +56,7 @@ When you report a scam:
 
 #### What features can I expect on the ScamShield Bot?
 
-**Besides checking and reporting on the bot, here are some of the things you can do or experience**:
+**Besides checking and reporting on the bot, here are some of the things you can do and experience:**
 
 <img style="width:100%" alt="<conversation with bot telling user how many people have reported this number>" src="/images/crowdsourced%20checking.png">
 
