@@ -41,7 +41,7 @@ In 3 steps, you can report a suspected message or call directly to the Singapore
 2. Send the scammer’s contact info
 3. Indicate where the message was received
  
-** For Call reports:**
+**For Call reports:**
  1. Provide the Caller's number or ID 
  2. Write a description of the call
  3. Indicate where the call was received
