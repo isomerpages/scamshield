@@ -31,13 +31,13 @@ sections:
       alt: Bot checking
       image: /images/bot checking infopic.png
   - infopic:
-      title: "ScamShield App "
+      title: ScamShield App
       subtitle: Detect scam SMSes & calls
       description: The ScamShield App blocks incoming calls from scammers. In
         addition, an on-device algorithm scans SMSes from unsaved contact to
         detect scam SMSes.
       button: View setup guide
-      url: /setup-guide/
+      url: /android-guide/
       alt: Block scam calls
       image: /images/BlockScamCalls.png
   - infopic:
