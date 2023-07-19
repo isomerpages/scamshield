@@ -9,7 +9,7 @@ image: /images/bot checking infopic.png
 
 **Step 1:**
 
-*   Scan the QR code, or visit the link here:
+*   Scan the QR code, or visit the link here: [https://go.gov.sg/scamshield-bot](https://go.gov.sg/scamshield-bot)
 
 <a href="https://go.gov.sg/scamshield-bot"><img style="width:50%" alt="<qr code that will lead to scamshield bot>" src="/images/qrcode%20scamshield.png"></a>
 
