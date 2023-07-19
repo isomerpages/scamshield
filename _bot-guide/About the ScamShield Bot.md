@@ -34,6 +34,12 @@ You can also check suspicious calls by copying the caller’s phone number to th
 
 #### How to report a suspicious message or call to the Bot?
 
+<div class="bp-youtube">
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/3Gx6CHJAJNk" height="315" width="560"></iframe>
+
+</div>
+	
 In 3 steps, you can report a suspected message or call directly to the Singapore Police Force.&nbsp;
 
 **For Message reports:**
