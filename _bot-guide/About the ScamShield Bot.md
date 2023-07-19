@@ -55,11 +55,17 @@ When you report a scam:
 *   Your report also help others spot scams whenever they check for a scam on the Bot.
 
 #### What features can I expect on the ScamShield Bot?
-**Besides the Bot’s core reporting and checking features, here are some of the additional features that were developed to improve the user experience**:
+
+**Besides checking and reporting on the bot, here are some of the things you can do or experience**:
 
 *   **Crowdsourced Information**: When checking whether something is a scam, for messages or calls that have previously been reported, the ScamShield Bot can tell you how many others have also reported a similar message or contact. 
+
 *   **Machine Learning Classifier**: For certain checked messages, the ScamShield Bot will use a machine learning classifier to determine whether the message content has been used by scammers before or whether the message contains URL links that likely lead to a scam website.
+
 *   **Forwarding Messages**: For scam messages received on WhatsApp, you can simply forward the suspicious message from another chat in WhatsApp directly to the ScamShield Bot, and the forwarded message can be immediately checked or reported to the SPF.
+
 *   **Accepts Screenshots**: You can screenshot messages and send them to the ScamShield Bot. The Bot uses Optical Character Recognition (OCR) technology to convert the screenshot from a picture to a text. This provides you another way to send messages to the Bot beyond copying or forwarding methods.
+
 *   **See my Stats**: You are able to see the impact that you've made by reporting on the ScamShield Bot. By clicking on ‘See my stats’ or typing out ‘stats’ to the Bot, you can find out how many reports you've submitted, how many times your reports have helped others check if something is a scam, and how many numbers/contacts/links etc. have been confirmed a scam as a result of your reports.
+
 *   **Getting Help**: If you are ever confused or lost, simply type out ‘help’ into the bot and a list of commands will be displayed to help you navigate directly to different features.
