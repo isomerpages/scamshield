@@ -62,4 +62,4 @@ A: If you think that your number might have been blocked or reported as a scam n
 
 **Q: I’ve tried it out and would love to provide you with some feedback!**
 
-A: We’d love to hear your comments, questions, and suggestions experience at: [go.gov.sg/scamshield-bot-feedback](http://go.gov.sg/scamshield-bot-feedback)
+A: We’ll love to hear your comments, questions, and suggestions at: [go.gov.sg/scamshield-bot-feedback](http://go.gov.sg/scamshield-bot-feedback)
