@@ -13,13 +13,18 @@ A: When you report a scam:
 *   When the SPF blocks suspicious numbers, the ScamShield App will then detect scam SMSes from these numbers, and block their calls.
 *   Your report also help others spot scams whenever they check for a scam.
 
+<br>
 **Q: How does the Bot identify if a message is likely to be a scam or not?**
 
 A: The ScamShield Bot identifies messages based on whether similar messages, numbers, and URLs have been previously reviewed and blacklisted by SPF. We also gather information from the public and check how many reports there are for similar messages. Lastly, the Bot uses a machine learning classifier to identify if a message is a scam or contains suspicious URLs/web links.
 
+<br>
+
 **Q: Can I use the Bot in other languages (such as Chinese, Tamil, or Malay)?**
 
 A: At the moment, the ScamShield Bot can only reply to users in English. You can report scam messages in non-English languages, but non-English scam reports will not be as easily understandable by the reviewing team, and therefore may not provide sufficient information for determining whether scam or not. Expanding the App and Bot to other languages will depend on user feedback and demand.
+
+<br>
 
 **Q: I have the ScamShield App, should I use the Bot or the App to report from now on?**
 
@@ -29,9 +34,13 @@ We want to increase the ease of reporting for users and as such, we do not inten
 
 We also encourage users to add the Bot on WhatsApp and download the App, so that you can easily check and reports scams on the Bot while receiving protection from scam SMS and calls via the App.
 
+<br>
+
 **Q: Should I still download the ScamShield app?**
 
 A: We highly recommend you download the ScamShield app so that you can protect yourself from scam calls and scam SMSes coming from confirmed blacklisted scammers.
+
+<br>
 
 **Q: Will the ScamShield Bot be available on Telegram?**
 
@@ -44,7 +53,9 @@ Privacy
 
 A: No, the Bot will not be able to read your other WhatsApp messages.
 
-###### Q. What gets sent to the Bot when I report to the police?
+<br>
+
+**Q. What gets sent to the Bot when I report to the police?**
 When you submit a report to the ScamShield Bot, the SPF will be able to see only the information you have submitted through the ScamShield Bot and the time stamp at which the report was submitted. For example, here is what the SPF can see: 
 
 For Message Reports: 
@@ -58,7 +69,9 @@ Contact Us
 
 **Q: I think my number has been wrongly reported on the ScamShield Bot. Who can I get in touch to get it removed?**
 
-A: If you think that your number might have been blocked or reported as a scam number, write in to [scamshield@ncpc.org.sg](mailto:scamshield@ncpc.org.sg). The SPF team will also be reviewing all reports and will not blacklist any contacts or numbers that are not involved in scams so be rest assured that an incorrect report will not be flagged as scam by the SPF.
+A: If you think that your number might have been blocked or reported as a scam number, write in to&nbsp;[scamshield@ncpc.org.sg](mailto:scamshield@ncpc.org.sg). The SPF team will also be reviewing all reports and will not blacklist any contacts or numbers that are not involved in scams so be rest assured that an incorrect report will not be flagged as scam by the SPF.
+
+<br>
 
 **Q: I’ve tried it out and would love to provide you with some feedback!**
 
