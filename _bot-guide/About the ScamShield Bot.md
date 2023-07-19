@@ -83,7 +83,6 @@ When you report a scam:
 *   **See my stats**: You are able to see the impact that you've made by reporting on the ScamShield Bot. By clicking on ‘See my stats’ or typing out ‘stats’ to the Bot, you can find out how many reports you've submitted, how many times your reports have helped others check if something is a scam, and how many numbers/contacts/links etc. have been confirmed a scam as a result of your reports.
 
 
-<img style="width:75%" alt="<conversation with bot telling user how many people have reported this number>" src="/images/crowdsourced%20checking.png">
-
+<img style="width:75%" alt="<conversation with bot telling user how many people have reported this number>" src="/images/ask%20bot%20for%20help.png">
 
 *   **Getting help**: If you are ever confused or lost, simply type out ‘help’ into the bot and a list of commands will be displayed to help you navigate directly to different features.
