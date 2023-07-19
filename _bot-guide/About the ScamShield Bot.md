@@ -70,12 +70,12 @@ When you report a scam:
 <br>
 <img style="width:100%" alt="<user forwards a message to the bot>" src="/images/forwarding.png">
 
-*   **Forward messages**: For scam messages received on WhatsApp, you can simply forward the suspicious message from another chat in WhatsApp directly to the ScamShield Bot, and the forwarded message can be immediately checked or reported to the SPF.
+*   **Forward messages**: For scam messages received on WhatsApp, you can simply forward the suspicious message from another chat directly to the ScamShield Bot, and the forwarded message can be immediately checked or reported to the SPF.
 
 <br>
 <img style="width:75%" alt="<user sends the bot a screenshot of a message scammer sent them>" src="/images/4%20screenshot.png">
 
-*   **Send screenshots**: You can screenshot messages and send them to the ScamShield Bot. The Bot uses Optical Character Recognition (OCR) technology to convert the screenshot from a picture to a text. This provides you another way to send messages to the Bot beyond copying or forwarding methods.
+*   **Send screenshots**: You can screenshot messages and send them to the ScamShield Bot. The Bot uses Optical Character Recognition (OCR) technology to convert the screenshot from a picture to a text. This provides you another way to send messages to the Bot beyond copying or forwarding.
 
 <br>
 <img style="width:100%" alt="<conversation with bot telling user how many people have reported this number>" src="/images/see%20stats.png">
