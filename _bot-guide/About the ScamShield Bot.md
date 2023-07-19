@@ -78,7 +78,7 @@ When you report a scam:
 *   **Send screenshots**: You can screenshot messages and send them to the ScamShield Bot. The Bot uses Optical Character Recognition (OCR) technology to convert the screenshot from a picture to a text. This provides you another way to send messages to the Bot beyond copying or forwarding methods.
 
 
-<img style="width:75%" alt="<conversation with bot telling user how many people have reported this number>" src="/images/crowdsourced%20checking.png">
+<img style="width:75%" alt="<conversation with bot telling user how many people have reported this number>" src="/images/see%20stats.png">
 
 *   **See my stats**: You are able to see the impact that you've made by reporting on the ScamShield Bot. By clicking on ‘See my stats’ or typing out ‘stats’ to the Bot, you can find out how many reports you've submitted, how many times your reports have helped others check if something is a scam, and how many numbers/contacts/links etc. have been confirmed a scam as a result of your reports.
 
