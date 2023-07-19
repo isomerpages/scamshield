@@ -63,7 +63,7 @@ When you report a scam:
 *   **Crowdsourced Information**: When checking whether something is a scam, for messages or calls that have previously been reported, the ScamShield Bot can tell you how many others have also reported a similar message or contact. 
 
 
-<img style="width:75%" alt="<conversation with bot telling user how many people have reported this number>" src="/images/crowdsourced%20checking.png">
+<img style="width:75%" alt="<conversation with bot telling user if message and links are suspicious>" src="/images/ml%20classifier.png">
 
 *   **Machine Learning Classifier**: For certain checked messages, the ScamShield Bot will use a machine learning classifier to determine whether the message content has been used by scammers before or whether the message contains URL links that likely lead to a scam website.
 
@@ -84,5 +84,6 @@ When you report a scam:
 
 
 <img style="width:75%" alt="<conversation with bot telling user how many people have reported this number>" src="/images/crowdsourced%20checking.png">
+
 
 *   **Getting help**: If you are ever confused or lost, simply type out ‘help’ into the bot and a list of commands will be displayed to help you navigate directly to different features.
