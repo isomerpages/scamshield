@@ -10,8 +10,8 @@ description: ""
 <img style="width:90%" alt="<ScamShield sending a push notification on an Android phone>" src="/images/android%20notification.png">
 
 
-*   When you receive a scam SMS from an **unknown number**, you will receive a **push notificatio**n from ScamShield informing you that it is a scam message.
-*   When ScamShield detects a scam message, you don't need to report it as we have already reported it to the authorities to ensure your safety.
+*   When you receive a scam SMS from an **unknown number**, you will receive a **push notification** from ScamShield informing you that it is a scam message.
+*   When ScamShield detects a scam message, you don't need to report it as ScamShield automatically reports it to the authorities to ensure your safety.
 *   ScamShield also works in the background silently to block scam calls.
 
 
