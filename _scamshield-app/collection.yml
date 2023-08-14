@@ -2,6 +2,7 @@ collections:
   scamshield-app:
     output: true
     order:
+      - IOS App/ScamShield iOS.md
       - IOS App/iOS Guide.md
       - IOS App/.keep
       - Android App/.keep
