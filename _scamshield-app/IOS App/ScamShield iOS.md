@@ -4,7 +4,7 @@ permalink: /scamshield-app/ios-app/permalink/
 description: ""
 third_nav_title: IOS App
 ---
-### ScamShield App Guide for iOS
+### Setting up ScamShield for iOS
 
 ---
 
