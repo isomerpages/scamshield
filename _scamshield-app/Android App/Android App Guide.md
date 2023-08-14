@@ -4,8 +4,11 @@ permalink: /scamshield-app/android-app/guide/
 description: Download the ScamShield App for Android
 third_nav_title: Android App
 ---
-### Download ScamShield Android
+
+
+### ScamShield Android App Guide
 ---
+#### Download ScamShield Android
 Download ScamShield from the Google Play Store by clicking on the button below, or searching for ScamShield on the Play Store.
 
 <a href="https://play.google.com/store/apps/details?id=sg.gov.scamshield" alt="Google Play Store link"><img src="/images/GooglePlayStore.png" style="width:160px;float:left"></a><br> 
