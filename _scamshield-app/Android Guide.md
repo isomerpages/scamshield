@@ -27,7 +27,7 @@ description: ""
 *   For Android users, you will receive a  notification from ScamShield informing you that the app has detected a scam message.
 
 
- #### Your privacy is important to us
+#### Your privacy is important to us
 
 *   For your privacy, ScamShield **does not filter calls and SMSes from contacts that you have saved on your phone.**
 
