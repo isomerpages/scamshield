@@ -21,14 +21,19 @@ description: ""
 
 
 #### How does it work on my Android phone?
-*   The app filters incoming calls and SMSes from unknown numbers, including overseas numbers. ScamShield uses a combination of an on-device algorithm and information provided by the Singapore Police Force (SPF), such as blacklisted numbers linked to scams, to determine if a call or SMS is a scam.
+*   The app filters incoming calls and SMSes from **unknown numbers, including overseas numbers.** ScamShield uses a combination of an on-device algorithm and information provided by the Singapore Police Force (SPF), such as blacklisted numbers linked to scams, to determine if a call or SMS is a scam.
 
-*   When you receive an SMS from an unknown number, ScamShield will determine if the SMS is a scam using an on-device algorithm. For Android users, you will receive a  notification from ScamShield informing you that the app has detected a scam message.
+*   When you receive an SMS from an unknown number, ScamShield will determine if the SMS is a scam using an on-device algorithm. 
+*   For Android users, you will receive a  notification from ScamShield informing you that the app has detected a scam message.
 
 
  #### Your privacy is important to us
 
 *   For your privacy, ScamShield **does not filter calls and SMSes from contacts that you have saved on your phone.**
+
+
+#### Feedback
+For any queries, questions or feedback, please contact us here: [https://go.gov.sg/scamshield-feedback](https://go.gov.sg/scamshield-feedback)
 
 
 ---
