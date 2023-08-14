@@ -17,6 +17,9 @@ When you receive a suspicious call or message, send it to the ScamShield Bot. Th
 *   Check if it’s a scam
 *   Report the scam
 
+
+<img style="width:100%" alt="<What happens when you report on the ScamShield Bot>" src="/images/7%20police%20report.png">
+
 Reports on the Bot are forwarded to the Singapore Police Force for review. As such, by reporting on the ScamShield Bot, you’ll be helping to protect the broader community in Singapore against the same scams.
 
 The Bot was developed to increase ease of reporting scams and to help users identify scams. With scams increasingly migrating to 3rd party platforms like WhatsApp, the ScamShield Bot on WhatsApp makes it easy for users to simply forward scam messages received on WhatsApp, or from any other 3rd party platform, and report them to the SPF.
