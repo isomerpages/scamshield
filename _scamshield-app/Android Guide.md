@@ -38,7 +38,7 @@ For any queries, questions or feedback, please contact us here: [https://go.gov.
 
 ---
 
-#### Download ScamShield Android
+### Download ScamShield Android
 Download ScamShield from the Google Play Store by clicking on the button below, or searching for ScamShield on the Play Store.
 
 <a href="https://play.google.com/store/apps/details?id=sg.gov.scamshield" alt="Google Play Store link"><img src="/images/GooglePlayStore.png" style="width:160px;float:left"></a><br> 
