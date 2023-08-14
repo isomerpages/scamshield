@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Android App/Android App Download.md
-      - Android App/Android Guide.md
+      - Android App/ScamShield Android.md
       - Android App/.keep
       - iOS Guide.md
