@@ -14,8 +14,8 @@ The ScamShield Bot was developed by Open Government Products in collaboration wi
 
 When you receive a suspicious call or message, send it to the ScamShield Bot. The Bot can help you:
 
-*   Check if it’s a scam
-*   Report the scam
+*   **Check** if it’s a scam
+*   **Report** the scam
 
 
 <img style="width:100%" alt="<What happens when you report on the ScamShield Bot>" src="/images/7%20police%20report.png">
