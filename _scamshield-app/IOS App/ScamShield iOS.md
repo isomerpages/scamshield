@@ -4,7 +4,8 @@ permalink: /scamshield-app/ios-app/permalink/
 description: ""
 third_nav_title: IOS App
 ---
-### Set up Scamshield iOS to block scam calls and SMSes
+### ScamShield App Guide for iOS
+
 ---
 
 
