@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - IOS App/Download and setup.md
-      - IOS App/iOS Guide.md
+      - IOS App/How it works.md
       - IOS App/.keep
       - Android App/.keep
       - Android App/ScamShield Android.md
