@@ -6,10 +6,6 @@ third_nav_title: IOS App
 ---
 
 
-### ScamShield App Guide for iOS
-
----
-
 #### How can I tell if ScamShield is working on my iOS phone?
 
 <img style="width:90%" alt="<An SMS that is filtered by ScamShield>" src="/images/ios%20filter.png">
@@ -43,5 +39,3 @@ For any queries, questions or feedback, please contact us here: [https://go.gov.
 
 
 ---
-
-
