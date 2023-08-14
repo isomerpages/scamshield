@@ -34,7 +34,13 @@ description: ""
 *   For your privacy, ScamShield **does not filter calls and SMSes from contacts that you have saved on your phone.**
 
 
+#### Feedback
+For any queries, questions or feedback, please contact us here: [https://go.gov.sg/scamshield-feedback](https://go.gov.sg/scamshield-feedback)
+
+
 ---
+
+
 #### Download ScamShield iOS
 Download ScamShield from the Apple App Store by clicking on the button below or searching for ScamShield on the App Store:
  
