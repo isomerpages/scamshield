@@ -41,7 +41,7 @@ For any queries, questions or feedback, please contact us here: [https://go.gov.
 ---
 
 
-#### Download ScamShield iOS
+### Download ScamShield iOS
 Download ScamShield from the Apple App Store by clicking on the button below or searching for ScamShield on the App Store:
  
 <a href="https://apps.apple.com/sg/app/scamshield/id1497144087" alt="Apple App Store link"><img src="/images/applestore.png" style="width:160px;float:left"></a><br> 
