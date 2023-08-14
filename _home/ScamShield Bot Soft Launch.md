@@ -8,7 +8,7 @@ description: New Developments
 
 <img style="width:100%" alt="<ScamShield Bot on WhatsApp>" src="/images/scamshield%20hero.png">
 
-**The ScamShield Bot is now open to the public for testing!**
+**The ScamShield Bot is now open to the public!**
 
 The ScamShield Bot was developed by Open Government Products in collaboration with the Singapore Police Force and NCPC.
 
