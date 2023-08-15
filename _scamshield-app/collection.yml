@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Android App/.keep
-      - Android App/Android App Guide.md
+      - Android App/Download and setup.md
       - Android App/How it works.md
       - IOS App/.keep
       - IOS App/How it works.md
