@@ -1,11 +1,11 @@
 ---
-title: Android Guide
-permalink: /android-guide/
-description: ""
+title: Download and setup
+permalink: /android-app/setup/
+description: Download the ScamShield App for Android
+third_nav_title: Android App
 ---
-### Set up ScamShield Android to block scam calls and detect scam SMSes
+### Setting up ScamShield for Android
 ---
-
 #### Download ScamShield Android
 Download ScamShield from the Google Play Store by clicking on the button below, or searching for ScamShield on the Play Store.
 

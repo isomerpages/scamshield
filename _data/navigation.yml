@@ -14,12 +14,12 @@ links:
       - title: Try the Bot
         url: https://go.gov.sg/scamshield-bot
   - title: ScamShield App
-    url: /android-guide/
+    url: /android-app/
     sublinks:
-      - title: Android App Guide
-        url: /android-guide/
-      - title: iOS App Guide
-        url: /ios-guide/
+      - title: Android App
+        url: /android-app/
+      - title: iOS App
+        url: /ios-app/
       - title: Download Android App
         url: https://play.google.com/store/apps/details?id=sg.gov.scamshield
       - title: Download iOS App

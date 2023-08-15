@@ -5,14 +5,20 @@ description: New Developments
 ---
 ### The ScamShield Bot is available on WhatsApp
 
-**The ScamShield Bot is now open to the public for testing!**
+
+<img style="width:100%" alt="<ScamShield Bot on WhatsApp>" src="/images/scamshield%20hero.png">
+
+**The ScamShield Bot is now open to the public!**
 
 The ScamShield Bot was developed by Open Government Products in collaboration with the Singapore Police Force and NCPC.
 
 When you receive a suspicious call or message, send it to the ScamShield Bot. The Bot can help you:
 
-*   Check if it’s a scam
-*   Report the scam
+*   **Check** if it’s a scam
+*   **Report** the scam
+
+
+<img style="width:100%" alt="<What happens when you report on the ScamShield Bot>" src="/images/7%20police%20report.png">
 
 Reports on the Bot are forwarded to the Singapore Police Force for review. As such, by reporting on the ScamShield Bot, you’ll be helping to protect the broader community in Singapore against the same scams.
 

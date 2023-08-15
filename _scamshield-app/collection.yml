@@ -2,5 +2,9 @@ collections:
   scamshield-app:
     output: true
     order:
-      - Android Guide.md
-      - iOS Guide.md
+      - Android App/.keep
+      - Android App/How it works.md
+      - Android App/Download and setup.md
+      - IOS App/.keep
+      - IOS App/How it works.md
+      - IOS App/Download and setup.md
