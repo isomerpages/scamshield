@@ -4,6 +4,10 @@ permalink: /ios-app/
 description: ""
 third_nav_title: IOS App
 ---
+### Set up Scamshield iOS to block scam calls and SMSes
+
+---
+
 #### How can I tell if ScamShield is working on my iOS phone?
 
 <img style="width:90%" alt="<An SMS that is filtered by ScamShield>" src="/images/ios%20filter.png">
