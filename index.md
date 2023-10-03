@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: FAQ
           description: Have a question?
-          url: https://ask.gov.sg/scamshield/
+          url: https://ask.gov.sg/scamshield
         - title: Report a scam
           description: Submit scam reports
           url: https://form.gov.sg/63982e109841390011a59121
@@ -44,7 +44,7 @@ sections:
       title: Get official answers from our Q&A Platform
       subtitle: Have a Question?
       button: VIEW OR ASK QUESTIONS ON ASK.GOV
-      url: https://go.ask.gov.sg/scamshield/
+      url: https://ask.gov.sg/scamshield
       image: /images/ss-askgov.png
       alt: AskGov ScamShield FAQ
 notification: ""
