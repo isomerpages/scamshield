@@ -37,7 +37,7 @@ third_nav_title: IOS App
 
 
 #### Feedback
-For any queries, questions or feedback, please contact us here: [https://go.gov.sg/scamshield-feedback](https://go.gov.sg/scamshield-feedback)
+For any queries, questions or feedback, please contact us here: [ScamShield Feedback](https://go.gov.sg/scamshield-feedback)
 
 
 ---

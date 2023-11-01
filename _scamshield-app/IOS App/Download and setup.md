@@ -1,6 +1,6 @@
 ---
 title: Download and setup
-permalink: /ios-app/setup/
+permalink: /ios-guide/
 description: ""
 third_nav_title: IOS App
 ---
