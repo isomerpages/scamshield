@@ -47,5 +47,8 @@ sections:
       url: https://ask.gov.sg/scamshield
       image: /images/ss-askgov.png
       alt: AskGov ScamShield FAQ
-notification: ""
+notification: "For ScamShield iOS users facing issues with the Call Blocking
+  extension: Please make sure to update your ScamShield App to the latest
+  version on the Apple App Store and enable the extension so that the App can
+  properly block scam calls for you. "
 ---
