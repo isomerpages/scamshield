@@ -22,6 +22,16 @@ sections:
           description: Visit ScamAlert.sg
           url: https://www.scamalert.sg
       background: /images/hero banner smaller element.png
+      variant: center
+  - infopic:
+      title: Provide Your Insights
+      subtitle: "Help inform our products "
+      button: Take a survey here
+      url: https://go.gov.sg/scam-info
+      image: /images/ss-askgov.png
+      alt: AskGov ScamShield FAQ
+      description: The ScamShield team would love to find about more about your
+        current experience of searching for information related to scams.
   - infopic:
       title: ScamShield Bot
       subtitle: New Product Launch
@@ -40,15 +50,8 @@ sections:
       url: /android-guide/
       alt: Block scam calls
       image: /images/BlockScamCalls.png
-  - infopic:
-      title: Get official answers from our Q&A Platform
-      subtitle: Have a Question?
-      button: VIEW OR ASK QUESTIONS ON ASK.GOV
-      url: https://ask.gov.sg/scamshield
-      image: /images/ss-askgov.png
-      alt: AskGov ScamShield FAQ
 notification: "For ScamShield iOS users facing issues with the Call Blocking
   extension: Please make sure to update your ScamShield App to the latest
   version on the Apple App Store and enable the extension so that the App can
-  properly block scam calls for you. "
+  properly block scam calls for you."
 ---
