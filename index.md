@@ -26,7 +26,7 @@ sections:
   - infopic:
       title: Provide Your Insights
       subtitle: Help inform our products
-      button: Take a survey here
+      button: Share your thoughts
       url: https://go.gov.sg/scam-info
       image: /images/Finding_Scam_Info_FormSG.png
       alt: AskGov ScamShield FAQ
