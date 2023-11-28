@@ -50,8 +50,7 @@ sections:
       url: /android-guide/
       alt: Block scam calls
       image: /images/BlockScamCalls.png
-notification: "For ScamShield iOS users facing issues with the Call Blocking
-  extension: Please make sure to update your ScamShield App to the latest
-  version on the Apple App Store and enable the extension so that the App can
-  properly block scam calls for you."
+notification: For Android users on version 9 and below, you may experience
+  issues on the ScamShield Android app. We are working on a fix for this now.
+  Thank you for your patience and we apologise for the inconvenience caused
 ---
